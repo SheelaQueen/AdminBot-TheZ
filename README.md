@@ -1,85 +1,150 @@
-# AdminBot-TheZ
-A powerful and fully customizable Discord bot designed for server administration. Featuring advanced moderation tools, a ticketing system, automated moderation, customizable welcome messages, and more. Built with flexibility in mind, AdminBot is free, open-source, and tailored for ease of use in managing your server.
+# AdminBot Features Documentation
 
-You can request the script/bot in my discord jsut open a ticket with "!ticket Request _bot"
-[Join my Discord](https://discord.gg/zsGTqgnsmK)
+AdminBot is a comprehensive and robust Discord bot designed to manage and enhance server experiences. Below is a detailed feature breakdown, comparing AdminBot to popular alternatives like MEE6, Dyno, and Carl-Bot.
 
-# Comparison of AdminBot with Other Discord Bots
+## Feature Comparison
 
-## Features Checklist
 | Feature                                | AdminBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------------|----------|------|------|----------|
 | **Moderation Commands**                | ✅        | ✅    | ✅    | ✅        |
+| - Ban/Kick/Warn                        | ✅        | ✅    | ✅    | ✅        |
+| - Clear Messages                       | ✅        | ✅    | ✅    | ✅        |
+| - Mute with Duration                   | ✅        | ❌    | ✅    | ✅        |
 | **Advanced Logging**                   | ✅        | ❌    | ❌    | ✅        |
+| - Action Logging (Bans, Mutes, etc.)   | ✅        | ❌    | ❌    | ✅        |
+| - Ticket Transcript Logging            | ✅        | ❌    | ❌    | ✅        |
 | **Ticket System**                      | ✅        | ❌    | ❌    | ✅        |
+| - Button-based Claim and Close         | ✅        | ❌    | ❌    | ✅        |
+| - Add/Remove Users in Tickets          | ✅        | ❌    | ❌    | ✅        |
+| - Ticket Logs                          | ✅        | ❌    | ❌    | ✅        |
 | **Server Management Tools**            | ✅        | ✅    | ✅    | ✅        |
+| - Lockdown/Unlock Channels             | ✅        | ✅    | ✅    | ✅        |
+| - Slowmode Configuration               | ✅        | ❌    | ✅    | ✅        |
+| - Announcement Command                 | ✅        | ❌    | ✅    | ✅        |
 | **Dynamic Status Updates**             | ✅        | ❌    | ❌    | ❌        |
-| **Custom Commands**                    | ❌        | ❌    | ✅    | ✅        |
+| - Rotating Status Messages             | ✅        | ❌    | ❌    | ❌        |
+| - Status Reflecting Server Stats       | ✅        | ❌    | ❌    | ❌        |
+| **Custom Commands/ for People who know how to customize the code**                    | ❌/ ✅    | ❌    | ✅    | ✅        |
 | **Embed Message Customization**        | ✅        | ❌    | ❌    | ✅        |
+| - Customizable Colors and Fields       | ✅        | ❌    | ❌    | ✅        |
 | **Role Management with Panels**        | ✅        | ❌    | ❌    | ✅        |
+| - Reaction-based Role Assignment       | ✅        | ❌    | ❌    | ✅        |
 | **Welcome System (Highly Configurable)**| ✅        | ❌    | ❌    | ✅        |
+| - Placeholders for User/Server Details | ✅        | ❌    | ❌    | ✅        |
+| - Configurable Welcome Message         | ✅        | ❌    | ❌    | ✅        |
 | **Auto-Moderation**                    | ✅        | ❌    | ✅    | ✅        |
-| **Caps/Spam/Banned Word Detection**    | ✅        | ❌    | ✅    | ✅        |
+| - Caps/Spam/Banned Word Detection      | ✅        | ❌    | ✅    | ✅        |
+| - Configurable Thresholds              | ✅        | ❌    | ✅    | ✅        |
 | **Activity and Member Tracking**       | ✅        | ❌    | ❌    | ❌        |
+| - Server/Member Stats                  | ✅        | ❌    | ❌    | ❌        |
+| - User Information Commands            | ✅        | ❌    | ❌    | ❌        |
 | **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
+
 ---
 
-## Commands in AdminBot - TheZ
+## Detailed Feature Breakdown
+
+### 1. Moderation Commands
+AdminBot provides a full suite of moderation tools to keep your server safe:
+- `!ban <user> [reason]`: Permanently ban a user.
+- `!kick <user> [reason]`: Remove a user from the server.
+- `!mute <user> <duration> [reason]`: Temporarily mute a user with a specified duration.
+- `!warn <user> [reason]`: Issue warnings to members.
+- `!clear <amount>`: Bulk delete messages in a channel.
+
+### 2. Advanced Logging
+Keep track of server activities with detailed logs:
+- Moderation actions such as bans, kicks, mutes, and warnings are logged.
+- Ticket logs, including transcripts, are automatically saved in a dedicated `#ticket-logs` channel.
+
+### 3. Ticket System
+AdminBot offers a robust ticketing system for user support:
+- Button-based interaction for claiming and closing tickets.
+- Add or remove users dynamically to collaborate on resolving issues.
+- Automatic logging and transcription of ticket discussions.
+
+### 4. Server Management Tools
+Enhance server management with powerful tools:
+- `!lockdown [channel]`: Restrict sending messages in a channel.
+- `!unlock [channel]`: Reopen a previously locked channel.
+- `!slowmode <seconds>`: Set a cooldown between messages.
+- `!announce <message>`: Create a server-wide announcement.
+
+### 5. Dynamic Status Updates
+Keep your server engaged with rotating status updates:
+- Customizable status messages reflecting server stats like member count and activity.
+
+### 6. Role Management
+Streamline role assignment with:
+- Reaction-based role panels for self-assignment.
+- Commands like `!addrole <user> <role>` and `!removerole <user> <role>` for admins.
+
+### 7. Welcome System
+Customize user onboarding:
+- Placeholders like `{user}`, `{server}`, and `{count}` allow personalized welcome messages.
+- Commands to configure the color, channel, and content of welcome messages.
+
+### 8. Auto-Moderation
+Ensure a safe environment with automated moderation:
+- Detection of caps, spam, and banned words with configurable thresholds.
+- Flexible settings to suit different server needs.
+
+#### Automod Commands:
+- `caps_threshold`: Configure the tolerance for caps in messages.
+- `spam_threshold`: Set the number of repeated messages to trigger spam detection.
+- `spam_interval`: Define the time window for spam detection.
+- `banned_words`: Add or remove words for automated filtering.
+- `link_whitelist`: Manage a list of allowed links.
+
+### 9. Information and Analytics
+Gain insights into server and user activity:
+- `!serverinfo`: Display server stats like member count and creation date.
+- `!userinfo [user]`: Retrieve detailed information about a user.
+- `!roles`: List all server roles and their member counts.
+- `!stats`: Show bot statistics including uptime and server count.
+
+---
+
+## Complete Command List
 
 ### Moderation Commands
-- `!ban <user> [reason]` - Permanently ban a user.
-- `!unban <user_id> [reason]` - Unban a previously banned user.
-- `!kick <user> [reason]` - Kick a user from the server.
-- `!mute <user> <duration> [reason]` - Temporarily mute a user.
-- `!warn <user> [reason]` - Issue a warning to a user.
-- `!clear <amount>` - Clear a specified number of messages.
+- `!ban <user> [reason]`
+- `!kick <user> [reason]`
+- `!mute <user> <duration> [reason]`
+- `!warn <user> [reason]`
+- `!clear <amount>`
+- `!nickname <user_id> <nickname>`
 
 ### Server Management Commands
-- `!lockdown [channel]` - Lock a channel.
-- `!unlock [channel]` - Unlock a channel.
-- `!slowmode <seconds>` - Set channel slowmode.
-- `!announce <message>` - Make a server announcement.
-- `!addrole <user> <role>` - Add a role to a user.
-- `!removerole <user> <role>` - Remove a role from a user.
-- `!autorole <role>` - Automatically assign a role to new members - Toggle.
-- `!autorole` - Show current autorole status.
-- `!rolepanel` - Create a role panel for users to select roles.
-- `!welcome <message>` - Set a welcome message for new members.
-- `!welcome color <color>` - Set the welcome message color.
-- `!welcome test` - Preview the welcome message.
-- `!welcome channel <channel>` - Set the welcome message channel.
-- `!welcome reset` - Reset welcome message settings.
-- `!automod <settings>` - Toggle automod features.
-- `!setup` - Perform basic server setup.
+- `!lockdown [channel]`
+- `!unlock [channel]`
+- `!slowmode <seconds>`
+- `!announce <message>`
+- `!addrole <user> <role>`
+- `!removerole <user> <role>`
 
 ### Ticket System Commands
-- `!ticketsetup [support_role]` - Setup the ticket system.
-- `!ticket [reason]` - Create a support ticket.
-- `!close` - Close the current ticket.
-- `!add <user>` - Add a user to the ticket.
-- `!remove <user>` - Remove a user from the ticket.
-
-### Auto-Moderation Commands
-- `!automod caps_threshold 0.7` - Set maximum percentage of caps allowed (0.0-1.0).
-- `!automod spam_threshold 5` - Set number of messages before spam detection.
-- `!automod add_banned_word <word>` - Add a word to the banned words list.
-- `!automod add_whitelist <url>` - Add a URL to the link whitelist.
+- `!ticket [reason]`
+- `!add <user>`
+- `!remove <user>`
+- `!close`
 
 ### Information Commands
-- `!serverinfo` - Display server statistics.
-- `!userinfo [user]` - Show user information.
-- `!roles` - List all server roles.
-- `!stats` - Show bot statistics.
-- `!activity <user>` - Check user activity status.
+- `!serverinfo`
+- `!userinfo [user]`
+- `!roles`
+- `!stats`
+
+### Automod Configuration
+- `caps_threshold`
+- `spam_threshold`
+- `spam_interval`
+- `banned_words`
+- `link_whitelist`
 
 ---
 
+We got a lot of features as u can see and you know whats crazy? we got over 1600+ banned words and u can add more if u want.
 
-1. **Auto-Moderation**: Configurable caps detection, spam prevention, and word filters.
-2. **User-Friendly Tickets**: Seamlessly integrates with support channels.
-3. **Free and Open Source**: Fully customizable for developers.
-
----
-
-Made By TheZ 
+made by TheZ
