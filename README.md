@@ -14,7 +14,7 @@ You can request the script/bot in my discord jsut open a ticket with "!ticket Re
 | **Ticket System**                      | ✅        | ❌    | ❌    | ✅        |
 | **Server Management Tools**            | ✅        | ✅    | ✅    | ✅        |
 | **Dynamic Status Updates**             | ✅        | ❌    | ❌    | ❌        |
-| **Custom Commands**                    | ✅        | ❌    | ✅    | ✅        |
+| **Custom Commands**                    | ❌        | ❌    | ✅    | ✅        |
 | **Embed Message Customization**        | ✅        | ❌    | ❌    | ✅        |
 | **Role Management with Panels**        | ✅        | ❌    | ❌    | ✅        |
 | **Welcome System (Highly Configurable)**| ✅        | ❌    | ❌    | ✅        |
