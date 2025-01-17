@@ -1,8 +1,5 @@
 # AdminBot Features Documentation
 
-
-#### If u want access to that bot/want the source code open a ticket in my server with reason AdminBot just go to commands and type !ticket AdminBot
-
 AdminBot is a comprehensive and robust Discord bot designed to manage and enhance server experiences. Below is a detailed feature breakdown, comparing AdminBot to popular alternatives like MEE6, Dyno, and Carl-Bot.
 
 ## Feature Comparison
@@ -72,7 +69,7 @@ Enhance server management with powerful tools:
 - `!lockdown [channel]`: Restrict sending messages in a channel.
 - `!unlock [channel]`: Reopen a previously locked channel.
 - `!slowmode <seconds>`: Set a cooldown between messages.
-- `!announce <message>`: Create a server-wide announcement.
+- `!announce <color/hex code> <channel> <message>`: Create a server announcement if u put in links it will also create a seperate message wit ha overwief of the lniks u put inthe message.
 
 ### 5. Dynamic Status Updates
 Keep your server engaged with rotating status updates:
@@ -126,12 +123,15 @@ Gain insights into server and user activity:
 - `!announce <message>`
 - `!addrole <user> <role>`
 - `!removerole <user> <role>`
+- `welcome` | **Lets you configure the welcome message/color/channel etc.**
 
 ### Ticket System Commands
 - `!ticket [reason]`
 - `!add <user>`
 - `!remove <user>`
 - `!close`
+
+- `Also u got clickable elements to claim a ticket/closing`
 
 ### Information Commands
 - `!serverinfo`
@@ -140,11 +140,23 @@ Gain insights into server and user activity:
 - `!stats`
 
 ### Automod Configuration
+
+
 - `caps_threshold`
 - `spam_threshold`
 - `spam_interval`
 - `banned_words`
 - `link_whitelist`
+
+
+### usage:
+- `!automod <configuration> <value>`
+### Example: 
+    - !automod caps_threshold 5
+    - !automod spam_threshold 3
+
+    - !automod banned_words FUCK
+    - !automod link_whitelist https://www.google.com
 
 ---
 
