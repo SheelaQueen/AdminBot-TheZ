@@ -1,8 +1,11 @@
 # AdminBot Features Documentation
 
-**If u want access just open a ticket in my discord server with reason: AdminBot command: !ticket AdminBot**
-
 AdminBot is a comprehensive and robust Discord bot designed to manage and enhance server experiences. Below is a detailed feature breakdown, comparing AdminBot to popular alternatives like MEE6, Dyno, and Carl-Bot.
+
+
+If u want the code/script just open a ticket in my discord server | !ticket AdminBot
+
+
 
 ## Feature Comparison
 
@@ -42,6 +45,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | - User Information Commands            | ✅        | ❌    | ❌    | ❌        |
 | **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
+| **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
 
 ---
 
@@ -54,6 +58,9 @@ AdminBot provides a full suite of moderation tools to keep your server safe:
 - `!mute <user> <duration> [reason]`: Temporarily mute a user with a specified duration.
 - `!warn <user> [reason]`: Issue warnings to members.
 - `!clear <amount>`: Bulk delete messages in a channel.
+- `!nuke`: Completely cleans a channel.
+- `!vcmute <user>`: Mutes a user in a voice call.
+- `!vcunmute <user>`: Unmutes a user in a voice call.
 
 ### 2. Advanced Logging
 Keep track of server activities with detailed logs:
@@ -68,10 +75,11 @@ AdminBot offers a robust ticketing system for user support:
 
 ### 4. Server Management Tools
 Enhance server management with powerful tools:
-- `!lockdown [channel]`: Restrict sending messages in a channel.
+- `!lockdown [channel] [duration]`: Restrict sending messages in a channel, now with optional duration.
 - `!unlock [channel]`: Reopen a previously locked channel.
 - `!slowmode <seconds>`: Set a cooldown between messages.
-- `!announce <color/hex code> <channel> <message>`: Create a server announcement if u put in links it will also create a seperate message wit ha overwief of the lniks u put inthe message.
+- `!announce <color/hex code> <channel> <message>`: Create a server announcement. If links are included, the bot will create a separate overview of the links.
+- `!massrole <role>`: Adds a specific role to all users on the server at once.
 
 ### 5. Dynamic Status Updates
 Keep your server engaged with rotating status updates:
@@ -91,6 +99,7 @@ Customize user onboarding:
 Ensure a safe environment with automated moderation:
 - Detection of caps, spam, and banned words with configurable thresholds.
 - Flexible settings to suit different server needs.
+- Enhanced `!automod spam_threshold` with custom timeout durations for spamming.
 
 #### Automod Commands:
 - `caps_threshold`: Configure the tolerance for caps in messages.
@@ -99,12 +108,34 @@ Ensure a safe environment with automated moderation:
 - `banned_words`: Add or remove words for automated filtering.
 - `link_whitelist`: Manage a list of allowed links.
 
+#### Usage:
+- `!automod <configuration> <value>`
+#### Example:
+- `!automod caps_threshold 5`
+- `!automod spam_threshold 4 10` (4 messages allowed within 5 seconds; 10-second timeout)
+- `!automod banned_words BADWORD`
+- `!automod link_whitelist https://www.example.com`
+
 ### 9. Information and Analytics
 Gain insights into server and user activity:
 - `!serverinfo`: Display server stats like member count and creation date.
 - `!userinfo [user]`: Retrieve detailed information about a user.
 - `!roles`: List all server roles and their member counts.
 - `!stats`: Show bot statistics including uptime and server count.
+- `!servericon`: Displays the server icon in full size.
+- `!avatar <user>`: Displays a user's avatar in full size.
+- `!ping`: Shows the bot's response time.
+
+### 10. Polls and Embeds
+Create engaging content:
+- `!poll`: Creates a reaction-based poll.
+- `!embed`: Creates a custom embed message.
+- `!say <message>`: Makes the bot send a message.
+
+### 11. Full Server Backup and Restore
+Ensure the safety of your server's configuration and content:
+- `!backup`: Creates a full backup of the server, including channels, roles, server settings, attachments, and messages/emojis.
+- `!restore <backup_file>`: Restores the server to a previously backed-up state.
 
 ---
 
@@ -116,54 +147,58 @@ Gain insights into server and user activity:
 - `!mute <user> <duration> [reason]`
 - `!warn <user> [reason]`
 - `!clear <amount>`
+- `!nuke`
+- `!vcmute <user>`
+- `!vcunmute <user>`
 - `!nickname <user_id> <nickname>`
 
 ### Server Management Commands
-- `!lockdown [channel]`
+- `!lockdown [channel] [duration]`
 - `!unlock [channel]`
 - `!slowmode <seconds>`
 - `!announce <message>`
+- `!massrole <role>`
 - `!addrole <user> <role>`
 - `!removerole <user> <role>`
-- `welcome` | **Lets you configure the welcome message/color/channel etc.**
+- `welcome`: Lets you configure the welcome message, color, and channel.
 
 ### Ticket System Commands
 - `!ticket [reason]`
 - `!add <user>`
 - `!remove <user>`
 - `!close`
-
-- `Also u got clickable elements to claim a ticket/closing`
+- Includes clickable elements to claim or close a ticket.
 
 ### Information Commands
 - `!serverinfo`
 - `!userinfo [user]`
 - `!roles`
 - `!stats`
+- `!servericon`
+- `!avatar <user>`
+- `!ping`
 
 ### Automod Configuration
-
-
 - `caps_threshold`
 - `spam_threshold`
 - `spam_interval`
 - `banned_words`
 - `link_whitelist`
 
+### Polls and Embeds
+- `!poll`
+- `!embed`
+- `!say <message>`
 
-### usage:
-- `!automod <configuration> <value>`
-### Example: 
-    - !automod caps_threshold 5
-    - !automod spam_threshold 3
-
-    - !automod banned_words FUCK
-    - !automod link_whitelist https://www.google.com
+### Backup and Restore
+- `!backup`
+- `!restore <backup_file>`
 
 ---
 
-We got a lot of features as u can see and you know whats crazy? we got over 1600+ banned words and u can add more if u want.
+With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
 
+Made by TheZ
 
 
 
