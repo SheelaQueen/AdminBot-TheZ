@@ -164,4 +164,69 @@ Gain insights into server and user activity:
 
 We got a lot of features as u can see and you know whats crazy? we got over 1600+ banned words and u can add more if u want.
 
+
+
+
+## GUIDE
+
+# How to Set Up Bot Permissions in Discord
+
+## 1. Create Roles for Your Bot
+
+To ensure your bot functions as needed, you need to create at least two roles:
+- **Bot Role (Top Hierarchy)**: This role will have all the necessary permissions for the bot to interact with the server. This role should be at the **top of the role hierarchy**.
+- **Secondary Role (Lowest Hierarchy)**: This role will be optional for the bot and is mainly for organizational purposes. It won't grant any permissions but can be placed **anywhere in the member list** (e.g., above owner, below admin, or below members) depending on your preference.
+
+## 2. Setting Up the Bot Role
+
+- **Step 1**: Go to **Server Settings** > **Roles**.
+- **Step 2**: Click on the **+** (Create a New Role) button to add a new role.
+- **Step 3**: Name this role something like "Bot" or "Bot Permissions".
+- **Step 4**: Assign **all permissions** that the bot needs to function (e.g., **Manage Messages**, **Send Messages**, **Manage Roles**, **Administrator**).
+- **Step 5**: Place this role **at the top of the hierarchy**. This ensures that the bot can manage other roles and messages. To do this:
+  - Under the **Roles** tab in **Server Settings**, click and drag this new "Bot" role to the top of the list of roles.
+
+## 3. Setting Up the Secondary Role
+
+- **Step 1**: Create a **Secondary Role** for the bot. This role may not have any permissions but is necessary for organizing the bot within the server.
+- **Step 2**: Name this role something like "Bot Secondary" or just "Bot Role" (whatever works for your setup).
+- **Step 3**: **Assign this role at the bottom of the hierarchy**.
+  - Under **Server Settings** > **Roles**, drag this role to the very bottom of the role list.
+  
+  **Note**: The secondary role is mainly for organizing the bot's position in the **member list** on the side of Discord. It doesn't need to have permissions but can be used to place the bot **above, below, or among specific roles** (such as above the owner, below admins, or below members), depending on where you want it to show up.
+
+## 4. Assigning Roles to the Bot
+
+- **Step 1**: Go to your **Discord server** and click on the **Members** list.
+- **Step 2**: Find your bot in the list of server members.
+- **Step 3**: Right-click on the bot’s name, then click on **Roles** > Assign both the **Bot Role** (top of hierarchy) and **Secondary Role** (lowest in hierarchy).
+
+## 5. Sorting by Hierarchy
+
+- After assigning the roles, you need to ensure that the roles are sorted by hierarchy.
+- In the **Role Settings**, under the **Roles** section, the topmost role will have the highest priority, and the lowest role will have the lowest priority. Ensure your bot’s main role is at the top.
+
+## 6. Adjusting Permissions (if necessary)
+
+- If your bot is not able to access certain channels or perform actions, it might be because the **bot's role** is not properly prioritized.
+- Make sure no other roles with higher priority restrict access to the necessary permissions for the bot.
+
+---
+
+## Final Steps:
+
+- **Test the bot**: Once the roles are set up, test the bot by asking it to perform tasks (such as sending messages or managing roles) to ensure that it has the required permissions.
+- **Sort Roles**: Ensure that roles are sorted in the correct order in **Server Settings** > **Roles** tab (Bot Role at the top and Secondary Role at the bottom).
+
+---
+
+## Quick Recap of Hierarchy and Permissions:
+
+- **Bot Role (Top)**: Has all permissions needed for bot operation.
+- **Secondary Role (Bottom)**: Can be used for organizational purposes (it does not have any permissions), and determines the **bot’s position in the member list**.
+- **Role Hierarchy**: Make sure to **sort by hierarchy** in **Server Settings** > **Roles** to keep the correct order. Place the **bot's secondary role** at the preferred position in the member list (above owner, below admin, or below members).
+
+
+
+
 made by TheZ
