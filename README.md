@@ -228,5 +228,12 @@ To ensure your bot functions as needed, you need to create at least two roles:
 
 
 
+## Why Two Roles for the Bot?
+Using two roles for your bot helps to separate its permissions from its visibility and organization within the server.
+
+The main bot role (at the top of the hierarchy) grants all the necessary permissions the bot needs to interact with channels, manage messages, and perform its tasks.
+
+The secondary role (at the bottom of the hierarchy) is purely for organizational purposes. It doesn’t have any permissions but determines the bot's position in the member list on the side of Discord, allowing you to control whether the bot appears above, below, or among specific roles like the owner or admins.
+
 
 made by TheZ
