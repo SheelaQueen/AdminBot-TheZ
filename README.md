@@ -46,7 +46,7 @@ If u want the code/script just open a ticket in my discord server | !ticket Admi
 | **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
 | **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
-
+| **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
 ---
 
 ## Detailed Feature Breakdown
@@ -137,6 +137,16 @@ Ensure the safety of your server's configuration and content:
 - `!backup`: Creates a full backup of the server, including channels, roles, server settings, attachments, and messages/emojis.
 - `!restore <backup_file>`: Restores the server to a previously backed-up state.
 
+### 12. Full Config import and export
+Included Settings
+• Welcome System
+• Ticket System
+• AutoMod
+• Role Management
+• Server Management
+- `!export`: Exports the entire bot configuration as a JSON file.
+- `!import <json_file>`: Imports a configuration from a JSON file.
+
 ---
 
 ## Complete Command List
@@ -193,6 +203,10 @@ Ensure the safety of your server's configuration and content:
 ### Backup and Restore
 - `!backup`
 - `!restore <backup_file>`
+
+### Config import and export
+- `!importconfig <config_file>`
+- `!exportconfig` 
 
 ---
 
