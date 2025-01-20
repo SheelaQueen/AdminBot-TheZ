@@ -3,7 +3,9 @@
 AdminBot is a comprehensive and robust Discord bot designed to manage and enhance server experiences. Below is a detailed feature breakdown, comparing AdminBot to popular alternatives like MEE6, Dyno, and Carl-Bot.
 
 
-If u want the code/script just open a ticket in my discord server | !ticket AdminBot
+#### If u want the sourcecode feel free to dm me on discord or just open a ticket wiith the command "!ticket AdminBot" 
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zsGTqgnsmK)
+
 
 
 
