@@ -49,6 +49,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
 | **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
+| **Owner Panel**     | ✅        | ❌    | ❌    | ❌        |
 ---
 
 ## Detailed Feature Breakdown
@@ -148,6 +149,14 @@ Included Settings
 • Server Management
 - `!export`: Exports the entire bot configuration as a JSON file.
 - `!import <json_file>`: Imports a configuration from a JSON file.
+- 
+### 13. Owner Panel
+ - `!owner`: Opens a panel for owner-only commands.
+ - `!executecmd <guild_id> <channel_id> <command>`: Execute commands in other servers
+ - `!leaveserver <guild_id>`: Make bot leave a specific server
+ - `!botinfo`: View detailed bot statistics
+
+Also if u do !owner it will give you a panel with interactive buttons like Statics and server lists
 
 ---
 
