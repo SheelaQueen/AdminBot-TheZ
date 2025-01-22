@@ -150,12 +150,18 @@ Included Settings
 - `!export`: Exports the entire bot configuration as a JSON file.
 - `!import <json_file>`: Imports a configuration from a JSON file.
 - 
-### 13. Owner Panel
+### 13. MiniGames
+- `!numbergame <number> <channel>`: Lets admins create a number game.
+- `<number>`: If nubmergame started players can enter numbers in the channel it started to guess it.
+- `!tictactoe`: lets u start a tictactoe game.
+
+Easy to use will give a announcement in the channel where game was started and a win announcement when someone wins.
+
+### 14. Owner Panel
  - `!owner`: Opens a panel for owner-only commands.
  - `!executecmd <guild_id> <channel_id> <command>`: Execute commands in other servers
  - `!leaveserver <guild_id>`: Make bot leave a specific server
  - `!botinfo`: View detailed bot statistics
-
 Also if u do !owner it will give you a panel with interactive buttons like Statics and server lists
 
 ---
@@ -218,6 +224,11 @@ Also if u do !owner it will give you a panel with interactive buttons like Stati
 ### Config import and export
 - `!importconfig <config_file>`
 - `!exportconfig` 
+
+### MiniGames
+- `!numbergame <number> <channel>`: Lets admins create a number game.
+- `<number>`: If nubmergame started players can enter numbers in the channel it started to guess it.
+- `!tictactoe`: lets u start a tictactoe game.
 
 ---
 
