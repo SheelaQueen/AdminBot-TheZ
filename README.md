@@ -9,8 +9,6 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 
 
 
-## Feature Comparison
-
 | Feature                                | AdminBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------------|----------|------|------|----------|
 | **Moderation Commands**                | ✅        | ✅    | ✅    | ✅        |
@@ -31,7 +29,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | **Dynamic Status Updates**             | ✅        | ❌    | ❌    | ❌        |
 | - Rotating Status Messages             | ✅        | ❌    | ❌    | ❌        |
 | - Status Reflecting Server Stats       | ✅        | ❌    | ❌    | ❌        |
-| **Custom Commands/ for People who know how to customize the code**                    | ❌/ ✅    | ❌    | ✅    | ✅        |
+| **Custom Commands**                    | ❌    | ❌    | ✅    | ✅        |
 | **Embed Message Customization**        | ✅        | ❌    | ❌    | ✅        |
 | - Customizable Colors and Fields       | ✅        | ❌    | ❌    | ✅        |
 | **Role Management with Panels**        | ✅        | ❌    | ❌    | ✅        |
@@ -47,11 +45,12 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | - User Information Commands            | ✅        | ❌    | ❌    | ❌        |
 | **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
+| **Custom Invite Links**               | ✅        | ❌    | ❌    | ❌        |
 | **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Owner Panel**     | ✅        | ❌    | ❌    | ❌        |
----
 
+--- 
 ## Detailed Feature Breakdown
 
 ### 1. Moderation Commands
@@ -164,6 +163,17 @@ Easy to use will give a announcement in the channel where game was started and a
  - `!botinfo`: View detailed bot statistics
 Also if u do !owner it will give you a panel with interactive buttons like Statics and server lists
 
+### 15. Custom Invites
+- `!invite <duration> <max uses>`: Create an invite link for a channel with customizable duration and max uses
+- `!invite_view`: Show all invite links and information about them
+
+  
+Usage Example: `!invite 32 21` 
+
+output: 
+
+![image](https://github.com/user-attachments/assets/fbd3812f-7c81-403c-9a3b-3bfdda627a88)
+
 ---
 
 ## Complete Command List
@@ -229,6 +239,10 @@ Also if u do !owner it will give you a panel with interactive buttons like Stati
 - `!numbergame <number> <channel>`: Lets admins create a number game.
 - `<number>`: If nubmergame started players can enter numbers in the channel it started to guess it.
 - `!tictactoe`: lets u start a tictactoe game.
+  
+### Custom Invites
+- `!invvte <duration> <max uses>`: Create an invite link for a channel with customizable duration and max uses
+- `!invite_view`: Show all invite links and information about them
 
 ---
 
@@ -305,6 +319,10 @@ Using two roles for your bot helps to separate its permissions from its visibili
 The main bot role (at the top of the hierarchy) grants all the necessary permissions the bot needs to interact with channels, manage messages, and perform its tasks.
 
 The secondary role (at the bottom of the hierarchy) is purely for organizational purposes. It doesn’t have any permissions but determines the bot's position in the member list on the side of Discord, allowing you to control whether the bot appears above, below, or among specific roles like the owner or admins.
+
+
+one last thing if u got multipel server adn want the same code/bot for it there is also a owner panel where u can hardcode ur discord id in it to execute cmd remotly annoucne leave servers u dont want the bot to be etc. 
+
 
 
 made by TheZ
