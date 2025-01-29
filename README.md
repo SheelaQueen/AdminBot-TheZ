@@ -414,31 +414,31 @@ This approach is considered a best practice in software development for maintain
 - If you don’t have an account, create one by clicking the "Sign Up" button and following the instructions.
 - If you already have an account, click "Log In" and enter your credentials.
 
-## 3. Create a New Environment (Project)
+## 3. Create or Open an Existing Environment (Project)
 - After logging in, you’ll be taken to the Railway dashboard.
-- Click on the "New Project" button (usually found at the top-right or in the main section).
-- Select "Start from Scratch" or choose a template, depending on your needs.
+- If you don't already have an environment, click the "New Project" button and create one.
+- If you already have an environment, just select the existing one where you want to deploy the project.
 
 ## 4. Connect Your GitHub Repository
-- On the environment setup page, you’ll have the option to connect your GitHub account to Railway.
-- Click on the "GitHub" option (since this is the easiest way to manage updates and deployment).
-- Log in to GitHub if prompted, and give Railway access to your repositories.
+- In your Railway environment, click the **"Connect a Repository"** button (or similar) to link your GitHub account to your Railway project.
+- Choose **GitHub** as the source to deploy from.
+- Log in to GitHub if prompted and authorize Railway to access your repositories.
 
 ## 5. Create a New Private GitHub Repository
-- Open GitHub and create a new repository.
+- Open GitHub and create a new repository:
   - Go to [GitHub](https://github.com) and click on the "New Repository" button.
   - Name the repository something relevant to your project (e.g., `my-project`).
-  - **Make sure the repository is set to private** to keep your code and configuration safe.
+  - **Make sure the repository is set to private** to keep your code and configuration secure.
   - Optionally, initialize with a README, but **do not add a .gitignore or license** (you'll upload your files manually).
 - Once the repository is created, drag and drop all your project files (the ones you received from me) into this repository on GitHub.
-  - **Don’t forget to include your `.env` file** with any sensitive configurations.
+  - **Be sure to include your `.env` file** with any sensitive configurations.
   - Commit and push the changes.
 
-## 6. Deploy the GitHub Repository to Railway
-- After uploading your files to the GitHub repository, return to your Railway dashboard.
-- In your environment on Railway, you should see the option to connect to your newly created GitHub repository.
-- Select the repository you just created and click "Deploy."
-- Railway will automatically start the deployment process, but we need to configure some settings before it’s fully functional.
+## 6. Link the GitHub Repository to Railway
+- After uploading your files to the GitHub repository, return to your Railway environment.
+- In the **"Environment"** section, click the option to **"Link a GitHub Repository"** or **"Deploy from GitHub"**.
+- Select the private GitHub repository you just created and click **"Deploy"**.
+- Railway will automatically start the deployment process, but we need to configure some additional settings.
 
 ## 7. Configure Deployment Settings
 - Once the deployment starts, go to the **Settings** section of your Railway project.
