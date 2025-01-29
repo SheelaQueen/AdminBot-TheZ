@@ -18,9 +18,11 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | **Advanced Logging**                   | ✅        | ❌    | ❌    | ✅        |
 | - Action Logging (Bans, Mutes, etc.)   | ✅        | ❌    | ❌    | ✅        |
 | - Ticket Transcript Logging            | ✅        | ❌    | ❌    | ✅        |
+| - **Overall Logger (Logs Every Message & File to Webhook)** | ✅ | ❌ | ❌ | ❌ |
 | **Ticket System**                      | ✅        | ❌    | ❌    | ✅        |
 | - Button-based Claim and Close         | ✅        | ❌    | ❌    | ✅        |
 | - Add/Remove Users in Tickets          | ✅        | ❌    | ❌    | ✅        |
+| - **Admin Role Assignment**            | ✅        | ❌    | ❌    | ❌        |
 | - Ticket Logs                          | ✅        | ❌    | ❌    | ✅        |
 | **Server Management Tools**            | ✅        | ✅    | ✅    | ✅        |
 | - Lockdown/Unlock Channels             | ✅        | ✅    | ✅    | ✅        |
@@ -48,7 +50,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | **Custom Invite Links**               | ✅        | ❌    | ❌    | ❌        |
 | **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
-| **Owner Panel**     | ✅        | ❌    | ❌    | ❌        |
+| **Owner Panel**                        | ✅        | ❌    | ❌    | ❌        |
 
 --- 
 ## Detailed Feature Breakdown
@@ -74,6 +76,8 @@ AdminBot offers a robust ticketing system for user support:
 - Button-based interaction for claiming and closing tickets.
 - Add or remove users dynamically to collaborate on resolving issues.
 - Automatic logging and transcription of ticket discussions.
+- `!ticketsetup <title> <message> <color>` Creates a ticket panel where members can create a ticket and also opens a windwo before creating the ticket  where they can describe the issue
+- `!ticketadmin <role>` Sets the role that will autoamtically be added to the ticket 
 
 ### 4. Server Management Tools
 Enhance server management with powerful tools:
@@ -174,6 +178,10 @@ output:
 
 ![image](https://github.com/user-attachments/assets/fbd3812f-7c81-403c-9a3b-3bfdda627a88)
 
+### 16. OverAll Logger
+- Logs all actions in the server. (in form of messages and files being sent)
+  - It will log everything that is being sent in the server and send it to a webhook. (customize webhook in .env)
+
 ---
 
 ## Complete Command List
@@ -200,7 +208,8 @@ output:
 - `welcome`: Lets you configure the welcome message, color, and channel.
 
 ### Ticket System Commands
-- `!ticket [reason]`
+- `!ticketsetup <title> <message> <color>` 
+- `!ticketadmin <role>` 
 - `!add <user>`
 - `!remove <user>`
 - `!close`
