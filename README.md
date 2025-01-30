@@ -447,4 +447,21 @@ This approach is considered a best practice in software development for maintain
 
 If you still have issues contact me on my discord server
 
-made by TheZ
+
+Updated: 30.01.2025
+
+Bug Fixes:
+- Fixed some owner panel issues 
+- Fixed ticketsetup color issue
+
+Enhanced:
+- more secure
+- warn system updated with more logic
+
+Added: 
+- way more colors to the ticket system
+  - blurple, green, red, grey, primary, secondary, success, danger, brand, teal, dark_teal, dark_green, blue, dark_blue, purple, dark_purple, magenta, dark_magenta, gold, dark_gold, orange, dark_orange, brand_red, dark_red, lighter_grey, dark_grey, light_grey, darker_grey, random, thez
+
+
+in case you are wondering what the specif words are (eg. TheZ, secondary, primary, danger)
+those are basically premade color sets 
