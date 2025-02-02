@@ -6,10 +6,6 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 ---
 
 
-
-
-
-
 #### If u want the script feel free to dm me on discord or just open a ticket
 [![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zsGTqgnsmK)
 
@@ -281,7 +277,18 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 
 With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
 
-Made by TheZ
+- `View Inside a Ticket`
+  
+![image](https://github.com/user-attachments/assets/39c90e2c-39de-4118-9830-cc2c68d6bf01)
+
+- `!panel`
+  
+![image](https://github.com/user-attachments/assets/4f6508c8-855c-4337-a3a0-da3bde1a9f9d)
+
+- `!analyse`
+
+![image](https://github.com/user-attachments/assets/6961ffd4-0e2e-44d5-9fac-ac37a736a14b)
+
 
 
 
