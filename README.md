@@ -75,7 +75,15 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 |Others: ❌ Freemium (Some Features Require Payment)|
 
 
+---
+## Infos About the Code
 
+- **Language**: Python
+- **Line Count**: 3832
+- **License**: MIT License
+- **Size in kB**: 169kB - 176 kB
+
+**Last Updated**: 2025-02-02
 
 --- 
 ## Detailed Feature Breakdown
