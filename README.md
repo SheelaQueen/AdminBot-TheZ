@@ -79,9 +79,11 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 ## Infos About the Code
 
 - **Language**: Python
+- **Python Version:** 3.12.7
+- **Discord.py Version:** 2.4.0
 - **Line Count**: 3832
 - **License**: MIT License
-- **Size in kB**: 169kB - 176 kB
+- **Size in kB**: 169kB - 176 kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-02
 
