@@ -57,10 +57,25 @@ Real owner id (me): 1284210833869639680
 | **Full Server Backup**            | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
 | **Full Config Backup**            | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
 | **Owner Panel**                   | ✅                      | ❌                        | ❌                       | ❌                       |
+| **Invite Tracker (super advanced)**                   | ✅                      | ❌                        | ❌                       | ❌                       |
+
+
+**Notice:**
+ - Invite Tracker (super advanced) is a unique feature currently available only in AdminBot. This feature tracks which invite link was used by new members to join your server.
+
+**Please note:**
+
+ - The tracking works only from the moment it's enabled and cannot retroactively track invites for members who joined before it was activated.
+ - The bot provides real-time tracking and will show invite usage for members who join after the feature is enabled.
+This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
+
 
 |AdminBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
+
+
+
 
 --- 
 ## Detailed Feature Breakdown
