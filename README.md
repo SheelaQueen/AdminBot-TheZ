@@ -58,7 +58,7 @@ Real owner id (me): 1284210833869639680
 | **Full Config Backup**            | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
 | **Owner Panel**                   | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Invite Tracker (super advanced)**                   | ✅                      | ❌                        | ❌                       | ❌                       |
-
+| **Discord Setup**              | ✅                      | ❌                        | ❌                       | ❌                       |
 
 **Notice:**
  - Invite Tracker (super advanced) is a unique feature currently available only in AdminBot. This feature tracks which invite link was used by new members to join your server.
@@ -224,10 +224,29 @@ cmds: !analyse <daily|weekly|monthly> <channel>
 
 Gives you a analyze of the server daily like members joined monthly/daily  if invites created inactive active and more.
 
-### View_historic
+### 18 View_historic
 - `!view_historic` Lets u see who joined with waht invite code
   
   look at the latest changelogs!
+
+
+### 19. Setup Discord Server
+- `!setup`: Creates a Discord Server from scratch (eg. Roles,channels, permissions, etc.)
+
+   - Creates a full discord with channels, locked channels, roles with specific permissions and hirachy
+
+            "📜 Information": ["📌 rules", "📢 announcements"],
+            "💬 General": ["💬 general-chat", "😂 memes"],
+            "🔒 Admin Only": ["🔧 admin-chat", "📜 admin-logs"],
+            "🤖 Bot Commands": ["⌨️ bot-commands", "📝 bot-logs"],
+            "🎤 Voice Channels": ["🎤 General VC", "🎶 Music VC"],
+            "🎮 Gaming": ["🎮 gaming-chat", "🕹️ game-logs"],
+   - Roles
+      - Owner, Bot (owner-level), member, admin, mod, bot (locked-down)
+
+
+
+
 ---
 
 ## Complete Command List
