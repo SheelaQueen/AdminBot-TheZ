@@ -15,51 +15,51 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 
 
 
+## Feature Comparison (against the PAID versions of these bots)
 
-| Feature                                | AdminBot | MEE6 | Dyno | Carl-Bot |
-|----------------------------------------|----------|------|------|----------|
-| **Moderation Commands**                | ✅        | ✅    | ✅    | ✅        |
-| - Ban/Kick/Warn                        | ✅        | ✅    | ✅    | ✅        |
-| - Clear Messages                       | ✅        | ✅    | ✅    | ✅        |
-| - Mute with Duration                   | ✅        | ❌    | ✅    | ✅        |
-| **Advanced Logging**                   | ✅        | ❌    | ❌    | ✅        |
-| - Action Logging (Bans, Mutes, etc.)   | ✅        | ❌    | ❌    | ✅        |
-| - Ticket Transcript Logging            | ✅        | ❌    | ❌    | ✅        |
-| - **Overall Logger (Logs Every Message & File to Webhook)** | ✅ | ❌ | ❌ | ❌ |
-| **Ticket System**                      | ✅        | ❌    | ❌    | ✅        |
-| - Button-based Claim and Close         | ✅        | ❌    | ❌    | ✅        |
-| - Add/Remove Users in Tickets          | ✅        | ❌    | ❌    | ✅        |
-| - **Admin Role Assignment**            | ✅        | ❌    | ❌    | ❌        |
-| - Ticket Logs                          | ✅        | ❌    | ❌    | ✅        |
-| **Server Management Tools**            | ✅        | ✅    | ✅    | ✅        |
-| - Lockdown/Unlock Channels             | ✅        | ✅    | ✅    | ✅        |
-| - Slowmode Configuration               | ✅        | ❌    | ✅    | ✅        |
-| - Announcement Command                 | ✅        | ❌    | ✅    | ✅        |
-| **Dynamic Status Updates**             | ✅        | ❌    | ❌    | ❌        |
-| - Rotating Status Messages             | ✅        | ❌    | ❌    | ❌        |
-| - Status Reflecting Server Stats       | ✅        | ❌    | ❌    | ❌        |
-| **Custom Commands**                    | ❌    | ❌    | ✅    | ✅        |
-| **Embed Message Customization**        | ✅        | ❌    | ❌    | ✅        |
-| - Customizable Colors and Fields       | ✅        | ❌    | ❌    | ✅        |
-| **Role Management with Panels**        | ✅        | ❌    | ❌    | ✅        |
-| - Reaction-based Role Assignment       | ✅        | ❌    | ❌    | ✅        |
-| **Welcome System (Highly Configurable)**| ✅        | ❌    | ❌    | ✅        |
-| - Placeholders for User/Server Details | ✅        | ❌    | ❌    | ✅        |
-| - Configurable Welcome Message         | ✅        | ❌    | ❌    | ✅        |
-| **Auto-Moderation**                    | ✅        | ❌    | ✅    | ✅        |
-| - Caps/Spam/Banned Word Detection      | ✅        | ❌    | ✅    | ✅        |
-| - Configurable Thresholds              | ✅        | ❌    | ✅    | ✅        |
-| **Activity and Member Tracking**       | ✅        | ❌    | ❌    | ❌        |
-| - Server/Member Stats                  | ✅        | ❌    | ❌    | ❌        |
-| - User Information Commands            | ✅        | ❌    | ❌    | ❌        |
-| **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
-| **Pricing**                            | Free     | Freemium | Freemium | Freemium |
-| **Analyze Commands**               | ✅        | ❌    | ❌    | ❌        |
-| **Custom Invite Links**               | ✅        | ❌    | ❌    | ❌        |
-| **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
-| **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
-| **Owner Panel**                        | ✅        | ❌    | ❌    | ❌        |
-
+| Feature                           | AdminBot                | MEE6 (Premium)            | Dyno (Premium)           | Carl-Bot (Premium)       |
+|-----------------------------------|-------------------------|---------------------------|--------------------------|--------------------------|
+| **Moderation Commands**           | ✅                      | ✅                        | ✅                       | ✅                       |
+| - Ban/Kick/Warn                   | ✅                      | ✅                        | ✅                       | ✅                       |
+| - Clear Messages                  | ✅                      | ✅                        | ✅                       | ✅                       |
+| - Mute with Duration              | ✅                      | ✅ (Premium-only)         | ✅                       | ✅                       |
+| **Advanced Logging**              | ✅                      | ❌ (Limited)              | ✅ (Premium-only)         | ✅                       |
+| - Action Logging                  | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ✅                       |
+| - Ticket Transcript Logging       | ✅                      | ❌                        | ❌                       | ✅                       |
+| - Overall Logger (Webhook Logging)| ✅                      | ❌                        | ❌                       | ❌                       |
+| **Ticket System**                 | ✅                      | ❌                        | ❌                       | ✅ (Premium required for advanced features) |
+| - Button-based Claim and Close    | ✅                      | ❌                        | ❌                       | ✅                       |
+| - Add/Remove Users in Tickets     | ✅                      | ❌                        | ❌                       | ✅                       |
+| - Admin Role Assignment           | ✅                      | ❌                        | ❌                       | ❌                       |
+| - Ticket Logs                     | ✅                      | ❌                        | ❌                       | ✅                       |
+| **Server Management Tools**       | ✅                      | ✅                        | ✅                       | ✅                       |
+| - Lockdown/Unlock Channels        | ✅                      | ✅                        | ✅                       | ✅                       |
+| - Slowmode Configuration          | ✅                      | ❌                        | ✅                       | ✅                       |
+| - Announcement Command            | ✅                      | ✅ (Premium-only)         | ✅                       | ✅                       |
+| **Dynamic Status Updates**        | ✅                      | ❌                        | ❌                       | ❌                       |
+| - Rotating Status Messages        | ✅                      | ❌                        | ❌                       | ❌                       |
+| - Status Reflecting Server Stats  | ✅                      | ❌                        | ❌                       | ❌                       |
+| **Custom Commands**               | ✅/❌                    | ✅ (Premium-only)         | ✅ (Premium-only)         | ✅ (Premium-only)         |
+| **Embed Message Customization**   | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ✅                       |
+| - Customizable Colors & Fields    | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ✅                       |
+| **Role Management with Panels**   | ✅                      | ❌                        | ❌                       | ✅ (Premium required for advanced features) |
+| - Reaction-based Role Assignment  | ✅                      | ❌                        | ❌                       | ✅                       |
+| **Welcome System (Highly Configurable)** | ✅                  | ✅ (Premium-only)         | ❌                       | ✅                       |
+| - Placeholders for User/Server    | ✅                      | ✅ (Premium-only)         | ❌                       | ✅                       |
+| - Configurable Welcome Message    | ✅                      | ✅ (Premium-only)         | ❌                       | ✅                       |
+| **Auto-Moderation**               | ✅                      | ✅ (Premium-only for advanced settings) | ✅                       | ✅                       |
+| - Caps/Spam/Banned Word Detection | ✅                      | ✅ (Premium-only for fine-tuning) | ✅                       | ✅                       |
+| - Configurable Thresholds         | ✅                      | ✅ (Premium-only for advanced settings) | ✅                       | ✅                       |
+| **Activity and Member Tracking**  | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| - Server/Member Stats             | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| - User Information Commands       | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| **Free and Open Source**          | ✅                      | ❌                        | ❌                       | ❌                       |
+| **Pricing**                        | Free                    | Paid (Premium required for many features) | Paid (Premium required for many features) | Paid (Premium required for many features) |
+| **Analyze Commands**              | ✅                      | ❌                        | ❌                       | ❌                       |
+| **Custom Invite Links**           | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| **Full Server Backup**            | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| **Full Config Backup**            | ✅                      | ✅ (Premium-only)         | ✅ (Premium-only)         | ❌                       |
+| **Owner Panel**                   | ✅                      | ❌                        | ❌                       | ❌                       |
 
 |AdminBot: ✅ 100% Free & Open Source|
 
