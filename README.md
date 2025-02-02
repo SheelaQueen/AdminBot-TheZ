@@ -64,6 +64,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 |AdminBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
+
 --- 
 ## Detailed Feature Breakdown
 
