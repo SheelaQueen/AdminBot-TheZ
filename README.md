@@ -199,7 +199,10 @@ cmds: !analyse <daily|weekly|monthly> <channel>
 
 Gives you a analyze of the server daily like members joined monthly/daily  if invites created inactive active and more.
 
-
+### View_historic
+- `!view_historic` Lets u see who joined with waht invite code
+  
+  look at the latest changelogs!
 ---
 
 ## Complete Command List
@@ -274,6 +277,9 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 ### Analyze
 - `!analyse`
 - `!analyse <daily|weekly|monthly> <channel>`
+
+### View_historic
+- `!view_historic` 
 ---
 
 With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
