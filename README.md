@@ -54,11 +54,16 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 | - User Information Commands            | ✅        | ❌    | ❌    | ❌        |
 | **Free and Open Source**               | ✅        | ❌    | ❌    | ❌        |
 | **Pricing**                            | Free     | Freemium | Freemium | Freemium |
+| **Analyze Commands**               | ✅        | ❌    | ❌    | ❌        |
 | **Custom Invite Links**               | ✅        | ❌    | ❌    | ❌        |
 | **Full Server Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Full Config Backup**                 | ✅        | ❌    | ❌    | ❌        |
 | **Owner Panel**                        | ✅        | ❌    | ❌    | ❌        |
 
+
+|AdminBot: ✅ 100% Free & Open Source|
+
+|Others: ❌ Freemium (Some Features Require Payment)|
 --- 
 ## Detailed Feature Breakdown
 
@@ -188,6 +193,14 @@ output:
 ### 16. OverAll Logger
 - Logs all actions in the server. (in form of messages and files being sent)
   - It will log everything that is being sent in the server and send it to a webhook. (customize webhook in .env)
+    
+### 17. Analysis
+- `!analyse`: Shows status of analyze 
+
+cmds: !analyse <daily|weekly|monthly> <channel>
+
+Gives you a analyze of the server daily like members joined monthly/daily  if invites created inactive active and more.
+
 
 ---
 
@@ -259,7 +272,10 @@ output:
 ### Custom Invites
 - `!invvte <duration> <max uses>`: Create an invite link for a channel with customizable duration and max uses
 - `!invite_view`: Show all invite links and information about them
-
+  
+### Analyze
+- `!analyse`
+- `!analyse <daily|weekly|monthly> <channel>`
 ---
 
 With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
