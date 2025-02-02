@@ -10,7 +10,7 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 
 [![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zsGTqgnsmK)
 
-
+Real owner id (me): 1284210833869639680
 
 ## Feature Comparison (against the PAID versions of these bots)
 
