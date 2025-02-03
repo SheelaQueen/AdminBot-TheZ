@@ -117,6 +117,7 @@ AdminBot provides a full suite of moderation tools to keep your server safe:
 - `!mute <user> <duration> [reason]`: Temporarily mute a user with a specified duration.
 - `!warn <user> [reason]`: Issue warnings to members.
 - `!clear <amount>`: Bulk delete messages in a channel.
+- `!purge <user| bots | links> <amount/nuke>`: "Purge messages from a user, bots, or links
 - `!nuke`: Completely cleans a channel.
 - `!vcmute <user>`: Mutes a user in a voice call.
 - `!vcunmute <user>`: Unmutes a user in a voice call.
@@ -277,6 +278,7 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!mute <user> <duration> [reason]`
 - `!warn <user> [reason]`
 - `!clear <amount>`
+- `!purge <user| bots | links> <amount/nuke>`
 - `!nuke`
 - `!vcmute <user>`
 - `!vcunmute <user>`
@@ -298,7 +300,7 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!add <user>`
 - `!remove <user>`
 - `!close`
-- Includes clickable elements to claim or close a ticket.
+
 
 ### Information Commands
 - `!serverinfo`
