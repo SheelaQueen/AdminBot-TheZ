@@ -81,7 +81,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 4175
+- **Line Count**: 4308
 - **License**: MIT License
 - **Size in kB**: 197kB - 204kB (Compact for faster deployment)
 
