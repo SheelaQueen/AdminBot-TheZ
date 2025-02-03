@@ -519,6 +519,7 @@ This approach is considered a best practice in software development for maintain
 - Once the deployment starts, go to the **Settings** section of your Railway project.
 - Scroll down until you see the **Deploy** section.
 - In the **Start Command** field, enter the command to run your main script. For example, if your main file is called `Main_bot_3.py`, enter:
+  - "python Main_bot_3.py"
 
 If you still have issues contact me on my discord server
 
