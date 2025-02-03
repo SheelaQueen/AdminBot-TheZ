@@ -69,6 +69,25 @@ Real owner id (me): 1284210833869639680
  - The bot provides real-time tracking and will show invite usage for members who join after the feature is enabled.
 This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
+| Feature                               | AdminBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
+|----------------------------------------|----------|----------------|----------------|--------------------|
+| Basic Reminder Command                | ✅        | ✅              | ✅              | ✅                  |
+| Custom Reminder Duration              | ✅        | ✅              | ✅              | ✅                  |
+| Customizable Reminder Colors          | ✅        | ❌              | ❌              | ❌                  |
+| Reminder with Channel Specification    | ✅        | ❌              | ❌              | ❌                  |
+| Embedded Reminder Messages            | ✅        | ❌              | ✅              | ✅                  |
+| Reminder Management (Editing)         | ❌        | ❌              | ❌              | ❌                  |
+
+### Snipe Features
+
+| Feature                               | AdminBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
+|----------------------------------------|----------|----------------|----------------|--------------------|
+| Snipe Features                         | ✅        | ❌              | ❌              | ✅ (Partial)        |
+| - Deleted Message Sniping              | ✅        | ❌              | ❌              | ✅                  |
+| - Edited Message Sniping               | ✅        | ❌              | ❌              | ✅                  |
+| - Adjustable Snipe Duration            | ✅        | ❌              | ❌              | ❌                  |
+| - Snipe Information Command            | ✅        | ❌              | ❌              | ❌                  |
+| - Cooldown Management for Sniping      | ✅        | ❌              | ❌              | ❌                  |
 
 |AdminBot: ✅ 100% Free & Open Source|
 
