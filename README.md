@@ -60,6 +60,7 @@ Real owner id (me): 1284210833869639680
 | **Invite Tracker (super advanced)**                   | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Discord Setup**              | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Custom Prefix**              | ✅ (via .env)                     | ❌                        | ✅                       | ✅                       |
+
 **Notice:**
  - Invite Tracker (super advanced) is a unique feature currently available only in AdminBot. This feature tracks which invite link was used by new members to join your server.
 
