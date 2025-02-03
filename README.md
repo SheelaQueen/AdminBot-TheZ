@@ -283,7 +283,18 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
       - Owner, Bot (owner-level), member, admin, mod, bot (locked-down)
 
 
+### Full Leveling System
 
+- `!set_level_role` <level> <role>	| Assign a role to a specific level.|
+- `!leaderboard`	| Display the server's leveling leaderboard.|
+- `!my_level`	 | Check your current level and XP.|
+- `!set_xp <user> <xp>`	| Set a user's XP manually (Bot Owner only).|
+- `!reset_levels`	| Reset all leveling data for the server (Bot Owner only).|
+- `!set_leaderboard_channel <channel>` |	Set the channel for live-updating |leaderboard.|
+- `!add_achievement <name> <required_level> <reward>`	| Add a new achievement (Bot Owner only).|
+- `!set_xp_multiplier <role> <multiplier>`	| Set an XP multiplier for a role (Bot Owner only).|
+- `!levelsetup` | Shows All infos/settings of the leveleling system|
+- `!levelsetup <channel>` | "Sets the channel where the leveling messages are sent|
 
 ---
 
@@ -364,6 +375,21 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 ### View_historic
 - `!view_historic` 
 ---
+
+
+### Level system commands
+
+- `!set_level_role <level> <role>`
+- `!leaderboard`
+- `!my_level`
+- `!set_xp <user> <xp>`
+- `!reset_levels`
+- `!set_leaderboard_channel <channel>`
+- `!add_achievement <name> <required_level> <reward>`
+- `!set_xp_multiplier <role> <multiplier>`
+- `!levelsetup`
+- `!levelsetup <channel>`
+
 
 With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
 
