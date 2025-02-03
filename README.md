@@ -90,6 +90,23 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | - Snipe Information Command            | ✅        | ❌              | ❌              | ❌                  |
 | - Cooldown Management for Sniping      | ✅        | ❌              | ❌              | ❌                  |
 
+### Leveling Features
+
+| **Leveling Feature**                | **AdminBot**  | **MEE6 (Premium)**  | **Dyno (Premium)**  | **Carl-Bot (Premium)**  |
+|--------------------------------------|--------------|----------------------|----------------------|------------------------|
+| **Basic Leveling System**            | ✅ **(Free)** | ✅ (Premium Only)     | ❌                   | ✅ (Premium Only)      |
+| `!set_level_role <level> <role>` (Auto-role for levels) | ✅ | ✅ | ❌ | ✅ |
+| `!leaderboard` (Server XP rankings)  | ✅ | ✅ | ❌ | ✅ |
+| `!my_level` (Check personal XP & level) | ✅ | ✅ | ❌ | ✅ |
+| `!set_xp <user> <xp>` (Manually set XP) | ✅ **(Bot Owner Only)** | ❌ | ❌ | ❌ |
+| `!reset_levels` (Reset leveling data) | ✅ **(Bot Owner Only)** | ❌ | ❌ | ❌ |
+| `!set_leaderboard_channel <channel>` (Live leaderboard updates) | ✅ | ❌ | ❌ | ❌ |
+| `!add_achievement <name> <level> <reward>` (Custom achievements) | ✅ **(Unique Feature!)** | ❌ | ❌ | ❌ |
+| `!set_xp_multiplier <role> <multiplier>` (XP boost for roles) | ✅ **(Unique Feature!)** | ❌ | ❌ | ❌ |
+| `!levelsetup` (View current settings) | ✅ | ❌ | ❌ | ❌ |
+| `!levelsetup <channel>` (Set leveling announcements) | ✅ | ✅ | ❌ | ✅ |
+
+
 |AdminBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -101,9 +118,9 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 4607
+- **Line Count**: 4995
 - **License**: MIT License
-- **Size in kB**: 204kB - 212kB (Compact for faster deployment)
+- **Size in kB**: 222kB - 229kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-03
 
