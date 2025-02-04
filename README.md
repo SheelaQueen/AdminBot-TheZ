@@ -119,9 +119,9 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 5000
+- **Line Count**: 5163
 - **License**: MIT License
-- **Size in kB**: 223kB - 230kB (Compact for faster deployment)
+- **Size in kB**: 223kB - 240kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-04
 
@@ -397,6 +397,12 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!set_xp_multiplier <role> <multiplier>`
 - `!levelsetup`
 - `!levelsetup <channel>`
+
+
+### reminder
+
+- `!editreminder` 
+- `!reminder` 
 
 
 With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
