@@ -59,6 +59,7 @@ Real owner id (me): 1284210833869639680
 | **Owner Panel**                   | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Invite Tracker (super advanced)**                   | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Discord Setup**              | ✅                      | ❌                        | ❌                       | ❌                       |
+| **Full Implented Level System**              | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Custom Prefix**              | ✅(via .env)                     | ❌                        | ✅                       | ✅                       |
 
 **Notice:**
