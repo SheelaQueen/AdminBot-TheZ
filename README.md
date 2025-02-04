@@ -6,9 +6,9 @@ AdminBot is a comprehensive and robust Discord bot designed to manage and enhanc
 ---
 
 
-#### If u want the script feel free to dm me on discord or just open a ticket
+#### If u want the script feel free to join my AdminBot discord
 
-[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zsGTqgnsmK)
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U8sssc6xbv)
 
 Real owner id (me): 1284210833869639680
 
