@@ -78,7 +78,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | Customizable Reminder Colors          | ✅        | ❌              | ❌              | ❌                  |
 | Reminder with Channel Specification    | ✅        | ❌              | ❌              | ❌                  |
 | Embedded Reminder Messages            | ✅        | ❌              | ✅              | ✅                  |
-| Reminder Management (Editing)         | ❌        | ❌              | ❌              | ❌                  |
+| Reminder Management (Editing)         | ✅        | ❌              | ❌              | ❌                  |
 
 ### Snipe Features
 
@@ -296,6 +296,13 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!set_xp_multiplier <role> <multiplier>`	| Set an XP multiplier for a role (Bot Owner only).|
 - `!levelsetup` | Shows All infos/settings of the leveleling system|
 - `!levelsetup <channel>` | "Sets the channel where the leveling messages are sent|
+
+
+### Remind Functions
+
+- `!editreminder` | Edit ur reminders with a panel
+- `!reminder` Opens reminder panel where u can easily create a reminder
+
 
 ---
 
