@@ -120,9 +120,9 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 5163
+- **Line Count**: 5296
 - **License**: MIT License
-- **Size in kB**: 223kB - 240kB (Compact for faster deployment)
+- **Size in kB**: 230kB - 250kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-04
 
@@ -134,12 +134,15 @@ AdminBot provides a full suite of moderation tools to keep your server safe:
 - `!ban <user> [reason]`: Permanently ban a user.
 - `!kick <user> [reason]`: Remove a user from the server.
 - `!mute <user> <duration> [reason]`: Temporarily mute a user with a specified duration.
+- `!unmute <user>`: Unmute
 - `!warn <user> [reason]`: Issue warnings to members.
 - `!clear <amount>`: Bulk delete messages in a channel.
 - `!purge <user| bots | links> <amount/nuke>`: "Purge messages from a user, bots, or links
 - `!nuke`: Completely cleans a channel.
 - `!vcmute <user>`: Mutes a user in a voice call.
 - `!vcunmute <user>`: Unmutes a user in a voice call.
+
+- `!mutesetup <role>`: who ever gets muted gets this role you configured with that command
 
 ### 2. Advanced Logging
 Keep track of server activities with detailed logs:
