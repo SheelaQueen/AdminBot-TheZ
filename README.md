@@ -131,6 +131,27 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | **Supports Multiple Servers**          | ✅                         | ✅                     | ✅                     | ✅                       |
 
 
+### Bot Verification System
+
+| Feature                             | AdminBot (Free) | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
+|-------------------------------------|-----------------|------------------------|------------------------|--------------------------|
+| **Automatic Bot Detection**         | ✅              | ❌                     | ❌                     | ❌                       |
+| **Bot Whitelist System**            | ✅              | ❌                     | ❌                     | ❌                       |
+| **Dedicated Logging Channel**       | ✅              | ❌                     | ❌                     | ✅                       |
+| **Auto-Kick Unauthorized Bots**     | ✅              | ❌                     | ❌                     | ❌                       |
+| **Bot Join Notifications**          | ✅              | ❌                     | ❌                     | ✅                       |
+| **Bot ID Tracking**                 | ✅              | ❌                     | ❌                     | ❌                       |
+| **Whitelisted Bots List**           | ✅              | ❌                     | ❌                     | ❌                       |
+| **Owner-Only Bot Management**       | ✅              | ✅                     | ✅                     | ✅                       |
+| **Easy Bot ID Copy**                | ✅              | ❌                     | ❌                     | ❌                       |
+| **Toggle Logging System**           | ✅              | ❌                     | ❌                     | ✅                       |
+| **Detailed Join Logs**              | ✅              | ❌                     | ❌                     | ❌                       |
+| **Server-Specific Settings**        | ✅              | ✅                     | ✅                     | ✅                       |
+| **Simple Setup Commands**           | ✅              | ❌                     | ❌                     | ❌                       |
+| **Instant Bot Protection**          | ✅              | ❌                     | ❌                     | ❌                       |
+
+
+
 |AdminBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -351,10 +372,21 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 
 
           There is also a command called !verificationrole <role>    | That is basically a role that is given to the user when they are verified so if u configure it it would give them the verifed role plus the role u configured with !verificationrole <role>
+
+
+# Bot Verification System Commands
+
+## Admin Commands
+- `!botlogs #channel` - Sets the logging channel for unauthorized bot joins
+- `!botlogs` - Disables the bot join logging
+- `!whitelisted` - Displays a list of all whitelisted bots with names and IDs
+
+## Owner Commands  
+- `!whitelist_bot <bot_id>` - Adds a bot to the whitelist
       
 ---
 
-## Complete Command List
+## Complete Command List (Does not Have all the commands read above for everything or install the bot and use !panel
 
 ### Moderation Commands
 - `!ban <user> [reason]`
