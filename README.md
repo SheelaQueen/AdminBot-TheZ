@@ -142,9 +142,9 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 5674
+- **Line Count**: 5700
 - **License**: MIT License
-- **Size in kB**: 250kB - 260kB (Compact for faster deployment)
+- **Size in kB**: 256kB - 265kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-06
 
