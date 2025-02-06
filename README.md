@@ -1,10 +1,7 @@
-# AdminBot Features Documentation
-
-AdminBot is a comprehensive and robust Discord bot designed to manage and enhance server experiences. Below is a detailed feature breakdown, comparing AdminBot to popular alternatives like MEE6, Dyno, and Carl-Bot.
-
 ## In the shadows of the forest, the owl awaits – AdminBot, powerful, free, and unstoppable.🚀
 
-
+---
+**[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
 ---
 
 
