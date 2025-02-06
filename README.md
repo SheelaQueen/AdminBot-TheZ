@@ -5,7 +5,8 @@
 **[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
 -  Get the bot in an instant
-
+- And when u got the bot star this repo
+  
 ---
 
 
