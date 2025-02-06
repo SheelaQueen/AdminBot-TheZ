@@ -62,6 +62,7 @@ Real owner id (me): 1284210833869639680
 | **Discord Setup**              | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Full Implented Level System**              | ✅                      | ❌                        | ❌                       | ❌                       |
 | **Custom Prefix**              | ✅(via .env)                     | ❌                        | ✅                       | ✅                       |
+| **Verification System** | ✅                      | ❌                        | ❌                       | ❌                       |
 
 **Notice:**
  - Invite Tracker (super advanced) is a unique feature currently available only in AdminBot. This feature tracks which invite link was used by new members to join your server.
@@ -108,6 +109,27 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | `!levelsetup` (View current settings) | ✅ | ❌ | ❌ | ❌ |
 | `!levelsetup <channel>` (Set leveling announcements) | ✅ | ✅ | ❌ | ✅ |
 
+### Verification Feautures
+
+| Feature                                | AdminBot (Free)            | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
+|----------------------------------------|---------------------------|------------------------|------------------------|--------------------------|
+| **Multi-Level Verification**           | ✅ (Easy, Medium, Hard)   | ❌                     | ❌                     | ❌                       |
+| **Custom Verification Timeout**        | ✅ (Configurable per level) | ❌                     | ❌                     | ❌                       |
+| **Email Verification Check**           | ✅                         | ❌                     | ❌                     | ❌                       |
+| **Phone Verification Check**           | ✅                         | ❌                     | ❌                     | ❌                       |
+| **Multi-Factor Authentication Check**  | ✅                         | ❌                     | ❌                     | ❌                       |
+| **Minimum Account Age Check**          | ✅ (Configurable per level) | ❌                     | ❌                     | ❌                       |
+| **Profile Picture Requirement**        | ✅ (Configurable per level) | ❌                     | ❌                     | ❌                       |
+| **Automatic Role Assignment**          | ✅ (After verification)   | ✅                     | ✅                     | ✅                       |
+| **Logging System**                     | ✅ (Logs to set channel)  | ❌ (Limited)           | ❌ (Limited)           | ✅ (Basic Logs)          |
+| **Verification Status Commands**       | ✅ (!verify stats)        | ❌                     | ❌                     | ❌                       |
+| **Customizable Verification Messages** | ✅                         | ❌                     | ❌                     | ❌                       |
+| **Auto-Kick on Verification Failure**  | ✅                         | ❌                     | ❌                     | ❌                       |
+| **Manual Verification Override**       | ✅ (Admin command)        | ❌                     | ❌                     | ❌                       |
+| **Integration with Role Management**   | ✅                         | ✅                     | ✅                     | ✅                       |
+| **Bot DMs User on Failure**            | ✅ (Explains rejection reason) | ❌                     | ❌                     | ❌                       |
+| **Supports Multiple Servers**          | ✅                         | ✅                     | ✅                     | ✅                       |
+
 
 |AdminBot: ✅ 100% Free & Open Source|
 
@@ -120,9 +142,9 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 5296
+- **Line Count**: 5674
 - **License**: MIT License
-- **Size in kB**: 230kB - 250kB (Compact for faster deployment)
+- **Size in kB**: 250kB - 260kB (Compact for faster deployment)
 
 **Last Updated**: 2025-02-05
 
@@ -308,6 +330,28 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!reminder` Opens reminder panel where u can easily create a reminder
 
 
+
+
+### Verification System
+  - 🛡️ Security Setup
+
+    -  !verify | Opens the verification menu
+
+  - 🔐 Security Setup
+    
+    - !verify <easy/medium/hard> <timeout duration | optional>
+  
+  - 📊 Statistics Viewer  
+    
+    - !verify stats
+  
+  - 📝 Logging Configuration
+    
+    - !verifychannel #channel
+
+
+          There is also a command called !verificationrole <role>    | That is basically a role that is given to the user when they are verified so if u configure it it would give them the verifed role plus the role u configured with !verificationrole <role>
+      
 ---
 
 ## Complete Command List
