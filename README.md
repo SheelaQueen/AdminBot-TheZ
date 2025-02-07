@@ -1,6 +1,8 @@
 ## In the shadows of the forest, the owl awaits – AdminBot, powerful, free, and unstoppable.🚀
 
 ---
+If you get kicked from the server, I may DM you to let you know that you've been whitelisted. This is a normal process when I see that your account is over 150 days old. However, make sure that you have a verified email on Discord, or you won’t be able to join.
+
 
 **[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
