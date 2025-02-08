@@ -9,7 +9,7 @@
 -  Open a ticket
 -  Get the bot in an instant
 - And when u got the bot star this repo
-- 
+  
 > - Video On how to request:
 >   
 >    - https://www.youtube.com/watch?v=uZbo6J__6N4
