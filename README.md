@@ -8,7 +8,7 @@
 ---
 
 
-**[👉 Click Here to Join TheZ's AdminBot!](https://discord.gg/U8sssc6xbv)**
+**[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
 -  Get the bot in an instant
 - And when u got the bot star this repo
@@ -20,14 +20,14 @@
 ---
 
 
-#### If u want the script feel free to join my AdminBot discord
+#### If u want the script feel free to join my ZygnalBot discord
 
 
 Real owner id (me): 1284210833869639680
-
+Now Called ZygnalBot
 ## Feature Comparison (against the PAID versions of these bots)
 
-| Feature                           | AdminBot                | MEE6 (Premium)            | Dyno (Premium)           | Carl-Bot (Premium)       |
+| Feature                           | ZygnalBot                | MEE6 (Premium)            | Dyno (Premium)           | Carl-Bot (Premium)       |
 |-----------------------------------|-------------------------|---------------------------|--------------------------|--------------------------|
 | **Moderation Commands**           | ✅                      | ✅                        | ✅                       | ✅                       |
 | - Ban/Kick/Warn                   | ✅                      | ✅                        | ✅                       | ✅                       |
@@ -85,7 +85,7 @@ Real owner id (me): 1284210833869639680
  - The bot provides real-time tracking and will show invite usage for members who join after the feature is enabled.
 This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
-| Feature                               | AdminBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
+| Feature                               | ZygnalBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
 |----------------------------------------|----------|----------------|----------------|--------------------|
 | Basic Reminder Command                | ✅        | ✅              | ✅              | ✅                  |
 | Custom Reminder Duration              | ✅        | ✅              | ✅              | ✅                  |
@@ -96,7 +96,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
 ### Snipe Features
 
-| Feature                               | AdminBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
+| Feature                               | ZygnalBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
 |----------------------------------------|----------|----------------|----------------|--------------------|
 | Snipe Features                         | ✅        | ❌              | ❌              | ✅ (Partial)        |
 | - Deleted Message Sniping              | ✅        | ❌              | ❌              | ✅                  |
@@ -107,7 +107,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
 ### Leveling Features
 
-| **Leveling Feature**                | **AdminBot**  | **MEE6 (Premium)**  | **Dyno (Premium)**  | **Carl-Bot (Premium)**  |
+| **Leveling Feature**                | **ZygnalBot**  | **MEE6 (Premium)**  | **Dyno (Premium)**  | **Carl-Bot (Premium)**  |
 |--------------------------------------|--------------|----------------------|----------------------|------------------------|
 | **Basic Leveling System**            | ✅ **(Free)** | ✅ (Premium Only)     | ❌                   | ✅ (Premium Only)      |
 | `!set_level_role <level> <role>` (Auto-role for levels) | ✅ | ✅ | ❌ | ✅ |
@@ -123,7 +123,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
 ### Verification Feautures
 
-| Feature                                | AdminBot (Free)            | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
+| Feature                                | ZygnalBot (Free)            | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
 |----------------------------------------|---------------------------|------------------------|------------------------|--------------------------|
 | **Multi-Level Verification**           | ✅ (Easy, Medium, Hard)   | ❌                     | ❌                     | ❌                       |
 | **Custom Verification Timeout**        | ✅ (Configurable per level) | ❌                     | ❌                     | ❌                       |
@@ -145,7 +145,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
 ### Bot Verification System
 
-| Feature                             | AdminBot (Free) | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
+| Feature                             | ZygnalBot (Free) | MEE6 (**Premium Only**) | Dyno (**Premium Only**) | Carl-Bot (**Premium Only**) |
 |-------------------------------------|-----------------|------------------------|------------------------|--------------------------|
 | **Automatic Bot Detection**         | ✅              | ❌                     | ❌                     | ❌                       |
 | **Bot Whitelist System**            | ✅              | ❌                     | ❌                     | ❌                       |
@@ -164,7 +164,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
 ### RolePanel Feature Comparison  
 
-| Feature                            | AdminBot (Free) | MEE6                | Dyno                | Carl-Bot            |  
+| Feature                            | ZygnalBot (Free) | MEE6                | Dyno                | Carl-Bot            |  
 |------------------------------------|-----------------|---------------------|---------------------|---------------------|  
 | **Custom Panel Themes**            | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
 | **Animated Buttons**               | ✅              | ❌                  | ❌                  | ❌                  |  
@@ -187,7 +187,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
       Command: !rolepanel
 
 
-|AdminBot: ✅ 100% Free & Open Source|
+|ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
 
@@ -198,11 +198,11 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 6561
+- **Line Count**: 6961
 - **License**: MIT License
-- **Size in kB**: 290kB - 300kB 
+- **Size in kB**: 299kB - 310kB 
 
-**Last Updated**: 2025-02-07
+**Last Updated**: 2025-02-09
 
 --- 
 ## Detailed Feature Breakdown
