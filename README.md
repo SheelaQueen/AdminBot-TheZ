@@ -3,7 +3,7 @@
 
 
 
-## In the shadows of the forest, the owl awaits – AdminBot, powerful, free, and unstoppable.🚀
+## In the shadows of the forest, the owl awaits – ZygnalBot, powerful, free, and unstoppable.🚀
 
 ---
 
