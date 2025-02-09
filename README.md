@@ -162,6 +162,29 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | **Simple Setup Commands**           | ✅              | ❌                     | ❌                     | ❌                       |
 | **Instant Bot Protection**          | ✅              | ❌                     | ❌                     | ❌                       |
 
+### RolePanel Feature Comparison  
+
+| Feature                            | AdminBot (Free) | MEE6                | Dyno                | Carl-Bot            |  
+|------------------------------------|-----------------|---------------------|---------------------|---------------------|  
+| **Custom Panel Themes**            | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Animated Buttons**               | ✅              | ❌                  | ❌                  | ❌                  |  
+| **Custom Emojis**                  | ✅              | ❌                  | ❌                  | ✅ *(Limited Free, Full in Premium)*  |  
+| **Multiple Layouts**               | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Limited Free, Full in Premium)*  |  
+| **Dynamic Colors**                 | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Custom Icons**                   | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Role Requirements**              | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Group Roles**                    | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Temporary Roles**                | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Role Limits**                    | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Role Categories**                | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Role Chains**                    | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Permission Checks**              | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Role Hierarchy**                 | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Anti-Abuse System**              | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Rate Limiting**                  | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Role Conflicts**                 | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+
+      Command: !rolepanel
 
 
 |AdminBot: ✅ 100% Free & Open Source|
