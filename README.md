@@ -6,11 +6,11 @@
 ## In the shadows of the forest, the owl awaits – ZygnalBot, powerful, free, and unstoppable.🚀
 
 ---
-
+NOTE: ZygnalBot is for Self hosting! 
 
 **[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
--  Get the bot in an instant
+-  Get the bot/script in an instant
 - And when u got the bot star this repo
   
 > - Video On how to request:
