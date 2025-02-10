@@ -3,9 +3,7 @@
 
 
 **ZygnalBot – The Signal You’ve Been Waiting For.**
-> We aim to destroy paywalls and bring knowledge to everyone.
-> 
-> Proudly developed in Germany.
+> We aim to destroy paywalls, bring knowledge to everyone, and deliver precision—all powered by Germany.
 
 ---
 NOTE: ZygnalBot is for Self hosting! 
