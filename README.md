@@ -237,6 +237,26 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
        !mood
 
+
+# Idea System Feature Comparison
+
+Feature | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium)
+---|---|---|---|---
+Idea Submission System | ✅ Yes | ❌ No | ❌ No | ❌ No
+Custom Title Prefix | ✅ Yes | ❌ No | ❌ No | ❌ No
+Anonymous Submissions | ✅ Yes | ❌ No | ❌ No | ❌ No
+Auto Thread Creation | ✅ Yes | ❌ No | ❌ No | ❌ No
+Voting System | ✅ Yes | ❌ No | ❌ No | ❌ No
+Category System | ✅ Yes | ❌ No | ❌ No | ❌ No
+Customizable Appearance | ✅ Yes | ❌ No | ❌ No | ❌ No
+Separate Channel Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
+Anti-Spam Protection | ✅ Yes | ❌ No | ❌ No | ❌ No
+Character Limits | ✅ Yes | ❌ No | ❌ No | ❌ No
+Cooldown System | ✅ Yes | ❌ No | ❌ No | ❌ No
+Easy GUI Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
+
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
