@@ -186,6 +186,40 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
       Command: !rolepanel
 
+# Rating System Feature Comparison  
+
+| **Feature**                          | **ZygnalBot** | **MEE6 (Premium)** | **Dyno (Premium)** | **Carl-Bot (Premium)** |  
+|--------------------------------------|--------------|--------------------|--------------------|----------------------|  
+| **Button-Based Rating System**       | ✅           | ❌                 | ❌                 | ❌                   |  
+| **Interactive Rating Panels**        | ✅           | ❌                 | ❌                 | ❌                   |  
+| **Real-Time Updates**                | ✅           | ❌                 | ❌                 | ❌                   |  
+| **Customizable Rating Panels**       | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Custom Titles & Descriptions       | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Configurable Button/Embed Colors   | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Multiple Rating Types (Stars/Numbers/Percent) | ✅ | ❌ | ❌ | ❌ |  
+| - Channel Targeting                  | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Interactive Setup Modal            | ✅           | ❌                 | ❌                 | ❌                   |  
+| **Admin Commands**                   | ✅           | ❌                 | ❌                 | ❌                   |  
+| - `!ratingsetup`                     | ✅           | ❌                 | ❌                 | ❌                   |  
+| - `!seerating` (View active panels, edit, delete) | ✅ | ❌ | ❌ | ❌ |  
+| - `!ratingrefresh <panel_id>` (Refresh stats) | ✅ | ❌ | ❌ | ❌ |  
+| **Rating Types**                      | ✅           | ❌                 | ❌                 | ❌                   |  
+| - ⭐ Stars (1-5)                      | ✅           | ❌                 | ❌                 | ❌                   |  
+| - 🔢 Numbers (1-10)                   | ✅           | ❌                 | ❌                 | ❌                   |  
+| - 📊 Percentages (0%, 25%, 50%, 75%, 100%) | ✅ | ❌ | ❌ | ❌ |  
+| **Panel Features**                    | ✅           | ❌                 | ❌                 | ❌                   |  
+| - One-Click Rating Submission        | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Real-Time Statistics Viewing       | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Visual Vote Distribution           | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Admin Refresh Capability           | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Beautiful Embed Displays           | ✅           | ❌                 | ❌                 | ❌                   |  
+| **Technical Improvements**           | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Persistent Data Storage            | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Error Handling                     | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Permission Management              | ✅           | ❌                 | ❌                 | ❌                   |  
+| - Cross-Channel Support              | ✅           | ❌                 | ❌                 | ❌                   |  
+
+
 
 |ZygnalBot: ✅ 100% Free & Open Source|
 
@@ -202,7 +236,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **License**: MIT License
 - **Size in kB**: 299kB - 310kB 
 
-**Last Updated**: 2025-02-09
+**Last Updated**: 2025-02-10
 
 --- 
 ## Detailed Feature Breakdown
@@ -418,7 +452,23 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 
 ## Owner Commands  
 - `!whitelist_bot <bot_id>` - Adds a bot to the whitelist
-      
+
+
+
+## Rating System
+
+| **Admin Commands**
+
+   - `!ratingsetup`                    
+   - `!seerating` (View active panels, edit, delete)
+   - `!ratingrefresh <panel_id>` (Refresh stats)
+  
+
+| **Rating Types**                      
+   - ⭐ Stars (1-5)                     
+   - 🔢 Numbers (1-10)                
+   - 📊 Percentages (0%, 25%, 50%, 75%, 100%)
+  
 ---
 
 ## Complete Command List (Does not Have all the commands read above for everything or install the bot and use !panel
