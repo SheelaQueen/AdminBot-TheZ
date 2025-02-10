@@ -268,9 +268,9 @@ Easy GUI Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 7788
+- **Line Count**: 8161
 - **License**: MIT License
-- **Size in kB**: 340kB - 351kB 
+- **Size in kB**: 356kB - 371kB 
 
 **Last Updated**: 2025-02-10
 
