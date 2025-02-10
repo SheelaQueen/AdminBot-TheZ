@@ -235,7 +235,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | **Test Mode for Debugging**       | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
 | **Opt-in/Opt-out System**         | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
 
-
+       !mood
 
 |ZygnalBot: ✅ 100% Free & Open Source|
 
