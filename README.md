@@ -2,8 +2,8 @@
 
 
 
-
-## In the shadows of the forest, the owl awaits – ZygnalBot, powerful, free, and unstoppable.🚀
+**ZygnalBot – The Signal You’ve Been Waiting For.**
+We aim to destroy paywalls and bring knowledge to everyone.
 
 ---
 NOTE: ZygnalBot is for Self hosting! 
