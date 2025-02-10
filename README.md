@@ -232,7 +232,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 7324
+- **Line Count**: 7374
 - **License**: MIT License
 - **Size in kB**: 322kB - 331kB 
 
