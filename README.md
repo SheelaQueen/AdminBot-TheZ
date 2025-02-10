@@ -219,6 +219,22 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | - Permission Management              | ✅           | ❌                 | ❌                 | ❌                   |  
 | - Cross-Channel Support              | ✅           | ❌                 | ❌                 | ❌                   |  
 
+# Mood Tracker
+
+| Feature                           | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
+|-----------------------------------|------------------------|---------------|---------------|-----------------|
+| **Mood Tracking**                 | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Role-Based Mood Prompts**       | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Anonymous Mood Logging**        | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Mood Analytics & Reports**      | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Mood Streak System**            | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Custom Mood Prompts**           | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Automated Mood Checks**         | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **JSON Data Storage**             | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Configurable Notification Frequency** | ✅ Yes        | ❌ No         | ❌ No         | ❌ No           |
+| **Test Mode for Debugging**       | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+| **Opt-in/Opt-out System**         | ✅ Yes                 | ❌ No         | ❌ No         | ❌ No           |
+
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
