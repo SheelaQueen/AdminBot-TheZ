@@ -3,7 +3,7 @@
 
 
 **ZygnalBot – The Signal You’ve Been Waiting For.**
-We aim to destroy paywalls and bring knowledge to everyone.
+> We aim to destroy paywalls and bring knowledge to everyone.
 
 ---
 NOTE: ZygnalBot is for Self hosting! 
