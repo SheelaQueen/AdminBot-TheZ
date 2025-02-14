@@ -255,6 +255,9 @@ Character Limits | ✅ Yes | ❌ No | ❌ No | ❌ No
 Cooldown System | ✅ Yes | ❌ No | ❌ No | ❌ No
 Easy GUI Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
 
+Feature | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium)
+---|---|---|---|---
+Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
@@ -270,9 +273,9 @@ Easy GUI Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Discord.py Version:** 2.4.0
 - **Line Count**: 8161
 - **License**: MIT License
-- **Size in kB**: 356kB - 371kB 
+- **Size in kB**: 399kB - 421kB 
 
-**Last Updated**: 2025-02-10
+**Last Updated**: 2025-02-14
 
 --- 
 ## Detailed Feature Breakdown
