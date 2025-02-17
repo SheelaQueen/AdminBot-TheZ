@@ -77,7 +77,7 @@ Now Called ZygnalBot
 | **Verification System** | ✅                      | ❌                        | ❌                       | ❌                       |
 
 **Notice:**
- - Invite Tracker (super advanced) is a unique feature currently available only in AdminBot. This feature tracks which invite link was used by new members to join your server.
+ - Invite Tracker (super advanced) is a unique feature currently available only in ZygnalBot. This feature tracks which invite link was used by new members to join your server.
 
 **Please note:**
 
@@ -260,7 +260,7 @@ Feature | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium
 Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 
-| Feature                          | AdminBot | MEE6 | Dyno | Carl-Bot |
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|----------|------|------|-----------|
 | **Moderation Commands**          | ✅        | ✅    | ✅    | ✅        |
 | **Full Server Backup**           | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
