@@ -295,7 +295,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 ## Detailed Feature Breakdown
 
 ### 1. Moderation Commands
-AdminBot provides a full suite of moderation tools to keep your server safe:
+ZygnalBot provides a full suite of moderation tools to keep your server safe:
 - `!ban <user> [reason]`: Permanently ban a user.
 - `!kick <user> [reason]`: Remove a user from the server.
 - `!mute <user> <duration> [reason]`: Temporarily mute a user with a specified duration.
@@ -315,7 +315,7 @@ Keep track of server activities with detailed logs:
 - Ticket logs, including transcripts, are automatically saved in a dedicated `#ticket-logs` channel.
 
 ### 3. Ticket System
-AdminBot offers a robust ticketing system for user support:
+ZygnalBot offers a robust ticketing system for user support:
 - Button-based interaction for claiming and closing tickets.
 - Add or remove users dynamically to collaborate on resolving issues.
 - Automatic logging and transcription of ticket discussions.
@@ -623,7 +623,7 @@ Gives you a analyze of the server daily like members joined monthly/daily  if in
 - `!reminder` 
 
 
-With all these features, AdminBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
+With all these features, ZygnalBot ensures a comprehensive management experience. Plus, it includes over 1600+ banned words in its default automod configuration, ensuring safety and compliance. And you know what’s crazy? It’s entirely free and open source.
 
 - `View Inside a Ticket`
   
@@ -712,14 +712,14 @@ The secondary role (at the bottom of the hierarchy) is purely for organizational
 one last thing if u got multipel server adn want the same code/bot for it there is also a owner panel where u can hardcode ur discord id in it to execute cmd remotly annoucne leave servers u dont want the bot to be etc. 
 
 
-# What is a `.env` File and Why Do You Need It for AdminBot?
+# What is a `.env` File and Why Do You Need It for ZygnalBot?
 
 A `.env` file (short for environment file) is a simple text file that stores environment variables. These variables are key-value pairs used to configure software applications without directly hardcoding sensitive or environment-specific data into your code.
 
 ---
 
-## Why Use a `.env` File for AdminBot?
-AdminBot uses a `.env` file to securely store essential configuration details and credentials required for its operation. This approach provides several key benefits:
+## Why Use a `.env` File for ZygnalBot?
+ZygnalBot uses a `.env` file to securely store essential configuration details and credentials required for its operation. This approach provides several key benefits:
 
 ### 1. **Secure Storage of Sensitive Data**
 - Important credentials like Discord bot tokens and webhook URLs should not be directly included in the source code. Storing them in a `.env` file keeps them private and prevents accidental exposure on public platforms like GitHub.
@@ -746,11 +746,11 @@ AdminBot uses a `.env` file to securely store essential configuration details an
   ```
 
 ### **3. Load Variables in Your Bot**
-- AdminBot already uses the `dotenv` library to read these variables. The line `load_dotenv()` in your code automatically reads the `.env` file.
+- ZygnalBot already uses the `dotenv` library to read these variables. The line `load_dotenv()` in your code automatically reads the `.env` file.
 
 ---
 
-## Sample `.env` File for AdminBot
+## Sample `.env` File for ZygnalBot
 ```env
 BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
 LOGGING_WEBHOOK_URL=YOUR_WEBHOOK_URL
