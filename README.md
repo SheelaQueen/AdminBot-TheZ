@@ -260,6 +260,20 @@ Feature | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium
 Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 
+| Feature                          | AdminBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|----------|------|------|-----------|
+| **Moderation Commands**          | ✅        | ✅    | ✅    | ✅        |
+| **Full Server Backup**           | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
+| **Full Config Backup**           | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
+| **Channel Backup & Restore**     | ✅        | ❌    | ❌    | ❌        |
+| **Role Backup & Restore**        | ✅        | ❌    | ❌    | ❌        |
+| **Message History Backup**       | ✅        | ❌    | ❌    | ❌        |
+| **File & Media Backup**          | ✅        | ❌    | ❌    | ❌        |
+| **Permission Backup**            | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
+
+
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -271,11 +285,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 9161
+- **Line Count**: 9483
 - **License**: MIT License
-- **Size in kB**: 399kB - 421kB 
+- **Size in kB**: 413kB - 425kB 
 
-**Last Updated**: 2025-02-14
+**Last Updated**: 2025-02-17
 
 --- 
 ## Detailed Feature Breakdown
