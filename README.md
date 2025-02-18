@@ -285,6 +285,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **GPT-4 Support**               | ✅        | ❌    | ❌    | ❌        |
 | **GPT-3.5 Support**             | ✅        | ❌    | ❌    | ❌        |
 
+      *Note: Using AI features requires an OpenAI API key with sufficient credits ($0.002-$0.03 per message depending on model)*
+
+
 
 |ZygnalBot: ✅ 100% Free & Open Source|
 
