@@ -272,6 +272,18 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Permission Backup**            | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
 
 
+| AI Features                      | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|-----------|------|------|-----------|
+| **AI Chat System**               | ✅        | ❌    | ❌    | ❌        |
+| **Image Generation**             | ✅        | ❌    | ❌    | ❌        |
+| **Content Analysis**             | ✅        | ❌    | ❌    | ❌        |
+| **Multiple AI Models**           | ✅        | ❌    | ❌    | ❌        |
+| **Customizable Personalities**   | ✅        | ❌    | ❌    | ❌        |
+| **Response Style Control**       | ✅        | ❌    | ❌    | ❌        |
+| **Context Memory**               | ✅        | ❌    | ❌    | ❌        |
+| **Interactive Settings Panel**   | ✅        | ❌    | ❌    | ❌        |
+| **GPT-4 Support**               | ✅        | ❌    | ❌    | ❌        |
+| **GPT-3.5 Support**             | ✅        | ❌    | ❌    | ❌        |
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
