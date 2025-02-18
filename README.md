@@ -272,7 +272,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Permission Backup**            | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
 
 
-| AI Features                      | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+| AI Features                      | ZygnalBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
 |----------------------------------|-----------|------|------|-----------|
 | **AI Chat System**               | ✅        | ❌    | ❌    | ❌        |
 | **Image Generation**             | ✅        | ❌    | ❌    | ❌        |
@@ -300,11 +300,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 9483
+- **Line Count**: 9824
 - **License**: MIT License
-- **Size in kB**: 413kB - 425kB 
+- **Size in kB**: 428kB - 442kB 
 
-**Last Updated**: 2025-02-17
+**Last Updated**: 2025-02-18
 
 --- 
 ## Detailed Feature Breakdown
