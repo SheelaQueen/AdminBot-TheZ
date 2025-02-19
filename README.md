@@ -18,6 +18,17 @@ NOTE: ZygnalBot is for Self hosting!
 >    - https://www.youtube.com/watch?v=uZbo6J__6N4
 
 ---
+User Ratings Summary
+
+Based on feedback from 6 users who use this bot, here’s how the project was rated:
+
+Customization: ⭐ 5.0 / 5.0 (6 votes)
+
+Features: ⭐ 5.0 / 5.0 (6 votes)
+
+Reliability: ⭐ 4.83 / 5.0 (6 votes)
+
+Thank you to everyone who participated in providing feedback! Your input helps make this project better every day.
 
 
 #### If u want the script feel free to join my ZygnalBot discord
