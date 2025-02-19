@@ -300,11 +300,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 9824
-- **License**: MIT License
-- **Size in kB**: 428kB - 442kB 
+- **Line Count**: 12430
+- **License**: Dual License (Proprietary Core + MIT Extended Features)
+- **Size in kB**: 534kB - 549kB 
 
-**Last Updated**: 2025-02-18
+**Last Updated**: 2025-02-19
 
 --- 
 ## Detailed Feature Breakdown
