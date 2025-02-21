@@ -299,6 +299,21 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
       *Note: Using AI features requires an OpenAI API key with sufficient credits ($0.002-$0.03 per message depending on model)*
 
 
+| AFK Feature                      | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|----------|------|------|-----------|
+| **Set AFK Status**               | ✅        | ✅    | ✅    | ✅        |
+| **Custom AFK Message**           | ✅        | ❌    | ✅    | ✅        |
+| **AFK Status Auto-Removal**      | ✅        | ✅    | ✅    | ✅        |
+| **Mentions Notify AFK Status**   | ✅        | ✅    | ✅    | ✅        |
+| **Timestamp of AFK Start**       | ✅        | ❌    | ✅    | ❌        |
+| **AFK Notification on Mention**  | ✅        | ✅    | ✅    | ✅        |
+| **Nickname Change with AFK Tag** | ✅        | ❌    | ✅ (Premium) | ✅        |
+| **AFK Status in Multiple Guilds** | ✅        | ❌    | ❌    | ❌        |
+| **AFK List Storage & Management** | ✅        | ❌    | ❌    | ❌        |
+| **Cooldown for AFK Command**     | ✅        | ❌    | ❌    | ❌        |
+
+
+
 
 |ZygnalBot: ✅ 100% Free & Open Source|
 
