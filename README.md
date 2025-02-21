@@ -312,6 +312,20 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **AFK List Storage & Management** | ✅        | ❌    | ❌    | ❌        |
 | **Cooldown for AFK Command**     | ✅        | ❌    | ❌    | ❌        |
 
+# Custom Embeds Feature Comparison
+
+| Custom Embeds Feature            | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Free) | Carl-Bot (Free) |  
+|----------------------------------|-----------------|---------------|------------|----------------|  
+| **JSON-Based Embed Creation**    | ✅              | ❌            | ✅          | ✅              |  
+| **Discohook Format Support**     | ✅              | ❌            | ❌          | ❌              |  
+| **Direct JSON Input**            | ✅              | ❌            | ❌          | ❌              |  
+| **File Attachments in Embeds**   | ✅              | ❌            | ❌          | ❌              |  
+| **Custom Embed Colors**          | ✅              | ✅ (Premium)  | ✅          | ✅              |  
+| **Custom Button Colors**         | ✅              | ❌            | ❌          | ✅              |  
+| **Multiple Color Combinations**  | ✅              | ❌            | ❌          | ❌              |  
+| **Embed Error Handling**         | ✅              | ❌            | ❌          | ✅              |  
+| **Embed Success Reactions**      | ✅              | ❌            | ❌          | ❌              |  
+| **Help Command for JSON Embeds** | ✅              | ❌            | ❌          | ❌              |  
 
 
 
@@ -326,11 +340,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 12624
+- **Line Count**: 12962
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 534kB - 563kB 
+- **Size in kB**: 555kB - 570kB 
 
-**Last Updated**: 2025-02-20
+**Last Updated**: 2025-02-21
 
 --- 
 ## Detailed Feature Breakdown
