@@ -181,7 +181,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | **Animated Buttons**               | ✅              | ❌                  | ❌                  | ❌                  |  
 | **Custom Emojis**                  | ✅              | ❌                  | ❌                  | ✅ *(Limited Free, Full in Premium)*  |  
 | **Multiple Layouts**               | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Limited Free, Full in Premium)*  |  
-| **Dynamic Colors**                 | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Dynamic Colors**                 | ✅ *(Now supports hex & decimal)* | ❌ | ❌ | ✅ *(Premium only)*  |  
 | **Custom Icons**                   | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
 | **Role Requirements**              | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
 | **Group Roles**                    | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
@@ -189,11 +189,15 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 | **Role Limits**                    | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
 | **Role Categories**                | ✅              | ❌                  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
 | **Role Chains**                    | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
-| **Permission Checks**              | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
+| **Permission Checks**              | ✅ *(Improved error handling)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
 | **Role Hierarchy**                 | ✅              | ✅ *(Premium only)*  | ✅ *(Premium only)*  | ✅ *(Premium only)*  |  
 | **Anti-Abuse System**              | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
 | **Rate Limiting**                  | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
 | **Role Conflicts**                 | ✅              | ❌                  | ❌                  | ✅ *(Premium only)*  |  
+| **Advanced Role Panel (JSON)**     | ✅ *(New: `!rolepanel_json` for Discohook format, multiple embeds, per-embed button control)* | ❌ | ❌ | ❌ |  
+| **Automatic Role Creation**        | ✅ *(New: Roles auto-created if missing in JSON panels)* | ❌ | ❌ | ❌ |  
+| **Exclusive Role Groups**          | ✅ *(New: Support for exclusive role groups in JSON panels)* | ❌ | ❌ | ❌ |  
+| **Enhanced Embed Styling**         | ✅ *(New: Improved footer styling, visual feedback, & animations)* | ❌ | ❌ | ❌ |  
 
       Command: !rolepanel
 
@@ -355,9 +359,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 13907
+- **Line Count**: 14170
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 610kB - 650kB 
+- **Size in kB**: 620kB - 650kB 
 
 **Last Updated**: 2025-02-23
 
