@@ -327,6 +327,21 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Embed Success Reactions**      | ✅              | ❌            | ❌          | ❌              |  
 | **Help Command for JSON Embeds** | ✅              | ❌            | ❌          | ❌              |  
 
+# Webhook Dashboard Feature Comparison
+
+| Webhook Dashboard Feature        | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Free) | Carl-Bot (Free) |  
+|----------------------------------|-----------------|---------------|------------|----------------|  
+| **Create Webhooks**              | ✅              | ✅ (Premium)  | ✅          | ✅              |  
+| **Delete Webhooks**              | ✅              | ❌            | ✅          | ✅              |  
+| **List Active Webhooks**         | ✅              | ❌            | ✅          | ✅              |  
+| **Edit Webhook Name**            | ✅              | ❌            | ✅          | ✅              |  
+| **Edit Webhook Avatar**          | ✅              | ❌            | ❌          | ✅              |  
+| **Edit Webhook Channel**         | ✅              | ❌            | ❌          | ✅              |  
+| **Send Test Message**            | ✅              | ❌            | ❌          | ✅              |  
+| **Webhook Error Handling**       | ✅              | ❌            | ❌          | ✅              |  
+| **Embed-Based Management UI**    | ✅              | ❌            | ❌          | ✅              |  
+| **Ephemeral Interaction Support** | ✅              | ❌            | ❌          | ✅              |  
+| **Webhook Success Notifications** | ✅              | ❌            | ❌          | ❌              |  
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
