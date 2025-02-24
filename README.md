@@ -348,6 +348,32 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Webhook Success Notifications** | ✅              | ❌            | ❌          | ❌              |  
 
 
+| Feature                                 | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Free) | Carl-Bot (Free) |  
+|-----------------------------------------|-----------------|---------------|------------|----------------|  
+| **Complete Advertisement Management**   | ✅              | ❌            | ❌          | ❌              |  
+| **Button-Based Interaction System**     | ✅              | ❌            | ❌          | ❌              |  
+| **Ad Analytics (Views, Clicks, Bumps)** | ✅              | ❌            | ❌          | ❌              |  
+| **Customizable Advertisement Templates**| ✅              | ❌            | ❌          | ❌              |  
+| **Advertisement Search Functionality**  | ✅              | ❌            | ❌          | ❌              |  
+| **Channel-Specific Ad Management**      | ✅              | ❌            | ❌          | ❌              |  
+| **Automated Expired Ad Cleanup**        | ✅              | ❌            | ❌          | ❌              |  
+| **Bump System (6-Hour Cooldown)**       | ✅              | ❌            | ❌          | ❌              |  
+| **Backup and Restore for Ads**          | ✅              | ❌            | ❌          | ❌              |  
+| **Blacklist System for Moderation**     | ✅              | ❌            | ❌          | ❌              |  
+| **Advanced Audit System (Ad Tracking)** | ✅              | ❌            | ❌          | ❌              |  
+| **Discord Invite Links**       | ✅              | ❌            | ❌          | ❌              |  
+| **Role-Based Verification System**      | ✅              | ❌            | ✅          | ✅              |  
+| **Customizable Verification Messages**  | ✅              | ❌            | ✅          | ✅              |  
+| **Dynamic Role Management**             | ✅              | ❌            | ✅          | ✅              |  
+| **Placeholder Support in Messages**     | ✅              | ❌            | ❌          | ✅              |  
+| **Setup Wizard for Easy Configuration** | ✅              | ❌            | ❌          | ✅              |  
+| **Verification Logging**                | ✅              | ❌            | ✅          | ✅              |  
+| **Role Hierarchy Management**           | ✅              | ❌            | ✅          | ✅              |  
+| **Custom Success Messages**             | ✅              | ❌            | ✅          | ✅              |  
+| **Admin Controls for Verification**     | ✅              | ❌            | ✅          | ✅              |  
+| **Help Command with Setup Guide**       | ✅              | ❌            | ✅          | ✅              |  
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -359,11 +385,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 14170
+- **Line Count**: 15374
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 620kB - 650kB 
+- **Size in kB**: 661kB - 680kB 
 
-**Last Updated**: 2025-02-23
+**Last Updated**: 2025-02-24
 
 --- 
 ## Detailed Feature Breakdown
