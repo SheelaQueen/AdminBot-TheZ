@@ -201,6 +201,7 @@ This feature is **not** available in MEE6, Dyno, or Carl-Bot at this time.
 
       Command: !rolepanel
 
+
 # Rating System Feature Comparison  
 
 | **Feature**                          | **ZygnalBot** | **MEE6 (Premium)** | **Dyno (Premium)** | **Carl-Bot (Premium)** |  
@@ -270,10 +271,14 @@ Character Limits | ✅ Yes | ❌ No | ❌ No | ❌ No
 Cooldown System | ✅ Yes | ❌ No | ❌ No | ❌ No
 Easy GUI Setup | ✅ Yes | ❌ No | ❌ No | ❌ No
 
+# Music System
+
 Feature | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium)
 ---|---|---|---|---
 Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
+
+# Backup/config
 
 | Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|----------|------|------|-----------|
@@ -286,6 +291,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **File & Media Backup**          | ✅        | ❌    | ❌    | ❌        |
 | **Permission Backup**            | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
 
+
+# AI/Chatgpt Functions
 
 | AI Features                      | ZygnalBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
 |----------------------------------|-----------|------|------|-----------|
@@ -302,6 +309,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
       *Note: Using AI features requires an OpenAI API key with sufficient credits ($0.002-$0.03 per message depending on model)*
 
+# AFK system (advanced) 
+
 
 | AFK Feature                      | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|----------|------|------|-----------|
@@ -315,6 +324,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **AFK Status in Multiple Guilds** | ✅        | ❌    | ❌    | ❌        |
 | **AFK List Storage & Management** | ✅        | ❌    | ❌    | ❌        |
 | **Cooldown for AFK Command**     | ✅        | ❌    | ❌    | ❌        |
+
+
 
 # Custom Embeds Feature Comparison
 
@@ -347,6 +358,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Ephemeral Interaction Support** | ✅              | ❌            | ❌          | ✅              |  
 | **Webhook Success Notifications** | ✅              | ❌            | ❌          | ❌              |  
 
+
+ # Ads System/Advertisment Functions
 
 | Feature                                 | ZygnalBot (Free) | MEE6 (Premium) | Dyno (Free) | Carl-Bot (Free) |  
 |-----------------------------------------|-----------------|---------------|------------|----------------|  
