@@ -374,6 +374,23 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Help Command with Setup Guide**       | ✅              | ❌            | ✅          | ✅              |  
 
 
+# Analytics
+
+| Feature                         | ZygnalBot | MEE6  | Dyno  | Carl-Bot |  
+|---------------------------------|------------------|-------|-------|----------|  
+| **Advanced Analytics Dashboard** | ✅ *(New: Predictive Trend Analysis, Role Progression, Heatmaps, Community Monitoring)* | ❌ | ❌ | ❌ |  
+| **Activity Heatmap**             | ✅ *(24-hour visualization, Peak/Quiet hours, Real-time tracking)* | ❌ | ❌ | ❌ |  
+| **Role Progress Tracking**       | ✅ *(Hierarchy display, Distribution stats, Member tracking)* | ❌ | ❌ | ❌ |  
+| **Predictive Trends**            | ✅ *(Growth forecasts, Trend analysis, Content predictions, Health scoring)* | ❌ | ❌ | ❌ |  
+| **Analytics Commands**           | ✅ *(New: `!analytics server/user/export/import`)* | ❌ | ❌ | ❌ |  
+| **Enhanced Data Collection**     | ✅ *(Real-time processing, Optimized DB, Advanced caching)* | ❌ | ❌ | ❌ |  
+| **Member Growth Analytics**      | ✅ *(Growth rate, Seasonal trends, Trend strength indicators)* | ❌ | ❌ | ❌ |  
+| **Message Activity Tracking**    | ✅ *(Message frequency, Reaction rates, Voice tracking, Engagement metrics)* | ❌ | ❌ | ❌ |  
+| **Content Analysis**             | ✅ *(Content distribution, Engagement trends, Topic detection)* | ❌ | ❌ | ❌ |  
+| **Community Health Monitoring**  | ✅ *(Health scoring, Risk detection, Improvement suggestions)* | ❌ | ❌ | ❌ |  
+| **Optimized Async Performance**  | ✅ *(Enhanced response times, Better handling of large servers)* | ❌ | ❌ | ❌ |  
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -385,11 +402,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 15374
+- **Line Count**: 16825
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 661kB - 680kB 
+- **Size in kB**: 719kB - 737kB
 
-**Last Updated**: 2025-02-24
+**Last Updated**: 2025-02-25
 
 --- 
 ## Detailed Feature Breakdown
