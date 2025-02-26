@@ -7,7 +7,7 @@ The ZygnalBot class and its direct implementation (lines 54-164) are proprietary
 - Remove or alter this notice.  
 - Redistribution of the core implementation requires explicit written permission. 
 
-### **GENERAL MIT LICENSE (All Other Code (over 17000 linesof code):**  
+### **GENERAL MIT LICENSE (All Other Code (over 18000 linesof code):**  
 Permission is hereby granted, free of charge, to any person obtaining a copy of the non-core portions of this software and associated documentation files, to use these portions without restriction, including, but not limited to, the rights to:  
 - Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions:  
 
