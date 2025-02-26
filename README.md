@@ -416,6 +416,34 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Optimized Async Performance**  | ✅ *(Enhanced response times, Better handling of large servers)* | ❌ | ❌ | ❌ |  
 
 
+# Study & Development Tools
+
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|-----------|------|------|-----------|
+| **Study Tools**                  |           |      |      |          |
+| Grade Calculator                 | ✅         | ❌    | ❌    | ❌        |
+| GPA Calculator                   | ✅         | ❌    | ❌    | ❌        |
+| Study Timer                      | ✅         | ❌    | ❌    | ❌        |
+| Pomodoro Timer                   | ✅         | ❌    | ❌    | ❌        |
+| User-Specific Timers             | ✅         | ❌    | ❌    | ❌        |
+| **Coding Tools**                 |           |      |      |          |
+| Color Picker                     | ✅         | ❌    | ❌    | ❌        |
+| Base Converter                   | ✅         | ❌    | ❌    | ❌        |
+| String Encoder/Decoder           | ✅         | ❌    | ❌    | ❌        |
+| Hash Calculator                  | ✅         | ❌    | ❌    | ❌        |
+| Live Color Preview               | ✅         | ❌    | ❌    | ❌        |
+| **Math & Physics**               |           |      |      |          |
+| Unit Converter                   | ✅         | ❌    | ❌    | ❌        |
+| Physics Calculator               | ✅         | ❌    | ❌    | ❌        |
+| Geometry Calculator              | ✅         | ❌    | ❌    | ❌        |
+| Statistics Tools                 | ✅         | ❌    | ❌    | ❌        |
+| **Time Tools**                   |           |      |      |          |
+| Timezone Converter              | ✅         | ❌    | ❌    | ❌        |
+| Date Calculator                 | ✅         | ❌    | ❌    | ❌        |
+| Meeting Scheduler               | ✅         | ❌    | ❌    | ❌        |
+| Project Planner                 | ✅         | ❌    | ❌    | ❌        |
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -427,9 +455,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 17105
+- **Line Count**: 18664
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 731kB - 750kB
+- **Size in kB**: 794kB - 816kB
 
 **Last Updated**: 2025-02-26
 
