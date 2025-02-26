@@ -292,20 +292,32 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Permission Backup**            | ✅        | ✅ (Premium-only) | ✅ (Premium-only) | ❌ |
 
 
-# AI/Chatgpt Functions
+# AI/ChatGPT Functions  
 
-| AI Features                      | ZygnalBot | MEE6 (Premium) | Dyno (Premium) | Carl-Bot (Premium) |
-|----------------------------------|-----------|------|------|-----------|
-| **AI Chat System**               | ✅        | ❌    | ❌    | ❌        |
-| **Image Generation**             | ✅        | ❌    | ❌    | ❌        |
-| **Content Analysis**             | ✅        | ❌    | ❌    | ❌        |
-| **Multiple AI Models**           | ✅        | ❌    | ❌    | ❌        |
-| **Customizable Personalities**   | ✅        | ❌    | ❌    | ❌        |
-| **Response Style Control**       | ✅        | ❌    | ❌    | ❌        |
-| **Context Memory**               | ✅        | ❌    | ❌    | ❌        |
-| **Interactive Settings Panel**   | ✅        | ❌    | ❌    | ❌        |
-| **GPT-4 Support**               | ✅        | ❌    | ❌    | ❌        |
-| **GPT-3.5 Support**             | ✅        | ❌    | ❌    | ❌        |
+| **AI Features**                   | **ZygnalBot** | **MEE6 (Premium)** | **Dyno (Premium)** | **Carl-Bot (Premium)** |  
+|----------------------------------|-------------|-----------------|-----------------|-----------------|  
+| **AI Chat System**               | ✅          | ❌              | ❌              | ❌              |  
+| **Image Generation | Not Tested**             | ✅          | ❌              | ❌              | ❌              |  
+| **Content Analysis**             | ✅          | ❌              | ❌              | ❌              |  
+| **Multiple AI Models**           | ✅          | ❌              | ❌              | ❌              |  
+| **Customizable Personalities**   | ✅          | ❌              | ❌              | ❌              |  
+| **Response Style Control**       | ✅          | ❌              | ❌              | ❌              |  
+| **Context Memory**               | ✅          | ❌              | ❌              | ❌              |  
+| **Interactive Settings Panel**   | ✅          | ❌              | ❌              | ❌              |  
+| **GPT-4 Support**               | ✅          | ❌              | ❌              | ❌              |  
+| **GPT-3.5 Support**             | ✅          | ❌              | ❌              | ❌              |  
+| **AI Credit Management**        | ✅          | ❌              | ❌              | ❌              |  
+| **Model Selection & Pricing**   | ✅          | ❌              | ❌              | ❌              |  
+| **Channel-Specific AI Settings**| ✅          | ❌              | ❌              | ❌              |  
+| **Conversation History Tracking**| ✅          | ❌              | ❌              | ❌              |  
+| **Real-Time AI Status Tracking**| ✅          | ❌              | ❌              | ❌              |  
+| **Rate Limiting System**        | ✅          | ❌              | ❌              | ❌              |  
+| **Guild-Specific Configurations**| ✅          | ❌              | ❌              | ❌              |  
+| **Embedded Feedback System**    | ✅          | ❌              | ❌              | ❌              |  
+| **Administrator Controls**      | ✅          | ❌              | ❌              | ❌              |  
+| **Visual AI Status Indicators** | ✅          | ❌              | ❌              | ❌              |  
+| **Error Handling & Notifications** | ✅      | ❌              | ❌              | ❌              |  
+
 
       *Note: Using AI features requires an OpenAI API key with sufficient credits ($0.002-$0.03 per message depending on model)*
 
@@ -415,11 +427,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 16825
+- **Line Count**: 17105
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 719kB - 737kB
+- **Size in kB**: 731kB - 750kB
 
-**Last Updated**: 2025-02-25
+**Last Updated**: 2025-02-26
 
 --- 
 ## Detailed Feature Breakdown
