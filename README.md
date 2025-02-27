@@ -444,6 +444,18 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | Project Planner                 | ✅         | ❌    | ❌    | ❌        |
 
 
+
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|----------|------|------|-----------|
+| **URL Shortener System**        | ✅        | ❌    | ❌    | ❌        |
+| **QR Code Generator/Reader**    | ✅        | ❌    | ❌    | ❌        |
+| **Password Generator**          | ✅        | ❌    | ❌    | ❌        |
+| **Morse Code Converter**        | ✅        | ❌    | ❌    | ❌        |
+| **Barcode Generator & Scanner** | ✅        | ❌    | ❌    | ❌        |
+| **ASCII Art Generator**         | ✅        | ❌    | ❌    | ❌        |
+
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -455,11 +467,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 18664
+- **Line Count**: 19497
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 794kB - 816kB
+- **Size in kB**: 829kB - 852kB
 
-**Last Updated**: 2025-02-26
+**Last Updated**: 2025-02-27
 
 --- 
 ## Detailed Feature Breakdown
