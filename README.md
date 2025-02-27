@@ -443,7 +443,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | Meeting Scheduler               | ✅         | ❌    | ❌    | ❌        |
 | Project Planner                 | ✅         | ❌    | ❌    | ❌        |
 
-
+Fun/Utils and more
 
 | Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|----------|------|------|-----------|
@@ -453,6 +453,12 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Morse Code Converter**        | ✅        | ❌    | ❌    | ❌        |
 | **Barcode Generator & Scanner** | ✅        | ❌    | ❌    | ❌        |
 | **ASCII Art Generator**         | ✅        | ❌    | ❌    | ❌        |
+| **IP Lookup System** (`!iplookup`) | ✅    | ❌    | ❌    | ❌        |
+| **URL Checker** (`!urlchecker`) | ✅        | ❌    | ❌    | ❌        |
+| **File Size Converter** (`!convert`) | ✅  | ❌    | ❌    | ❌        |
+| **File Type Identifier** (`!identify`) | ✅  | ❌    | ❌    | ❌        |
+| **Download Time Calculator** (`!downloadcalc`) | ✅ | ❌    | ❌    | ❌        |
+
 
 
 
@@ -469,7 +475,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Discord.py Version:** 2.4.0
 - **Line Count**: 20403
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 829kB - 852kB
+- **Size in kB**: 866kB - 888kB
 
 **Last Updated**: 2025-02-27
 
