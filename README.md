@@ -443,7 +443,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | Meeting Scheduler               | ✅         | ❌    | ❌    | ❌        |
 | Project Planner                 | ✅         | ❌    | ❌    | ❌        |
 
-Fun/Utils and more
+# Fun/Utils and more
 
 | Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|----------|------|------|-----------|
