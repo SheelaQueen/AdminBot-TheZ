@@ -483,6 +483,16 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 **Last Updated**: 2025-02-28
 
+
+
+
+---
+
+## The list below does not include all commands. Check out the Discord for changelogs, or if you have any questions about a command or need help, feel free to ask!
+
+
+
+
 --- 
 ## Detailed Feature Breakdown
 
