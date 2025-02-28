@@ -458,6 +458,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **File Size Converter** (`!convert`) | ✅  | ❌    | ❌    | ❌        |
 | **File Type Identifier** (`!identify`) | ✅  | ❌    | ❌    | ❌        |
 | **Download Time Calculator** (`!downloadcalc`) | ✅ | ❌    | ❌    | ❌        |
+| **Interactive Periodic Table**  | ✅        | ❌    | ❌    | ❌        |
+| **Advanced RNG System**         | ✅        | ❌    | ❌    | ❌        |
+
 
 
 
@@ -473,11 +476,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 20403
+- **Line Count**: 20962
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 866kB - 888kB
+- **Size in kB**: 890kB - 914kB
 
-**Last Updated**: 2025-02-27
+**Last Updated**: 2025-02-28
 
 --- 
 ## Detailed Feature Breakdown
