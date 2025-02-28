@@ -426,6 +426,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | Study Timer                      | ✅         | ❌    | ❌    | ❌        |
 | Pomodoro Timer                   | ✅         | ❌    | ❌    | ❌        |
 | User-Specific Timers             | ✅         | ❌    | ❌    | ❌        |
+| Citation System                  | ✅         | ❌    | ❌    | ❌        |
+| ISBN Lookup                      | ✅         | ❌    | ❌    | ❌        |
 | **Coding Tools**                 |           |      |      |          |
 | Color Picker                     | ✅         | ❌    | ❌    | ❌        |
 | Base Converter                   | ✅         | ❌    | ❌    | ❌        |
@@ -464,7 +466,6 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 
 
-
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -476,9 +477,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 20962
+- **Line Count**: 21166
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 890kB - 914kB
+- **Size in kB**: 895kB - 919kB
 
 **Last Updated**: 2025-02-28
 
