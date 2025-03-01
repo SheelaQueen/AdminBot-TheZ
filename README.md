@@ -35,7 +35,8 @@ Thank you to everyone who participated in providing feedback! Your input helps m
 
 
 Real owner id (me): 1284210833869639680
-Now Called ZygnalBot
+
+> Now Called ZygnalBot
 ## Feature Comparison (against the PAID versions of these bots)
 
 | Feature                           | ZygnalBot                | MEE6 (Premium)            | Dyno (Premium)           | Carl-Bot (Premium)       |
