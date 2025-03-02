@@ -465,6 +465,20 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Advanced RNG System**         | ✅        | ❌    | ❌    | ❌        |
 
 
+# Anti Ghost Ping System
+
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|-----------|------|------|-----------|
+| **Ghost Ping Detection**         | ✅        | ✅    | ✅    | ✅        |
+| **Strict Mode Toggle**           | ✅        | ❌    | ❌    | ❌        |
+| **3-Strike System**              | ✅        | ❌    | ❌    | ❌        |
+| **Auto-Mute After 3 Strikes**    | ✅        | ❌    | ❌    | ❌        |
+| **Mod Log Integration**          | ✅        | ✅    | ✅    | ✅        |
+| **Deletion Pattern Detection**   | ✅        | ❌    | ❌    | ❌        |
+| **Ghost Ping Counter**           | ✅        | ❌    | ❌    | ❌        |
+| **Config Export/Import**         | ✅        | ❌    | ❌    | ❌        |
+| **Detailed Warning Embeds**      | ✅        | ✅    | ✅    | ✅        |
+
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
@@ -478,9 +492,9 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 21755
+- **Line Count**: 22385
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 927kB - 950kB
+- **Size in kB**: 956kB - 983B
 
 **Last Updated**: 2025-03-02
 
