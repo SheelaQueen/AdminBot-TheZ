@@ -479,6 +479,20 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Config Export/Import**         | ✅        | ❌    | ❌    | ❌        |
 | **Detailed Warning Embeds**      | ✅        | ✅    | ✅    | ✅        |
 
+# Fun & Sass Features
+
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|-----------|------|------|-----------|
+| **Sassy Bot Responses**          | ✅        | ❌    | ❌    | ❌        |
+| **Dynamic Sass Embeds**          | ✅        | ❌    | ❌    | ❌        |
+| **Roast Commands**               | ✅        | ❌    | ❌    | ❌        |
+| **Smart Comebacks**              | ✅        | ❌    | ❌    | ❌        |
+| **Hacker Commands**              | ✅        | ❌    | ❌    | ❌        |
+| **Matrix Animation**             | ✅        | ❌    | ❌    | ❌        |
+| **Neural Scan Simulation**       | ✅        | ❌    | ❌    | ❌        |
+| **Decryption Sequence**          | ✅        | ❌    | ❌    | ❌        |
+| **Theatrical Hacking**           | ✅        | ❌    | ❌    | ❌        |
+| **Colorful Embed Responses**     | ✅        | ❌    | ❌    | ❌        |
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
