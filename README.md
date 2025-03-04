@@ -446,23 +446,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | Meeting Scheduler               | ✅         | ❌    | ❌    | ❌        |
 | Project Planner                 | ✅         | ❌    | ❌    | ❌        |
 
-# Fun/Utils and more
 
-| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
-|----------------------------------|----------|------|------|-----------|
-| **URL Shortener System**        | ✅        | ❌    | ❌    | ❌        |
-| **QR Code Generator/Reader**    | ✅        | ❌    | ❌    | ❌        |
-| **Password Generator**          | ✅        | ❌    | ❌    | ❌        |
-| **Morse Code Converter**        | ✅        | ❌    | ❌    | ❌        |
-| **Barcode Generator & Scanner** | ✅        | ❌    | ❌    | ❌        |
-| **ASCII Art Generator**         | ✅        | ❌    | ❌    | ❌        |
-| **IP Lookup System** (`!iplookup`) | ✅    | ❌    | ❌    | ❌        |
-| **URL Checker** (`!urlchecker`) | ✅        | ❌    | ❌    | ❌        |
-| **File Size Converter** (`!convert`) | ✅  | ❌    | ❌    | ❌        |
-| **File Type Identifier** (`!identify`) | ✅  | ❌    | ❌    | ❌        |
-| **Download Time Calculator** (`!downloadcalc`) | ✅ | ❌    | ❌    | ❌        |
-| **Interactive Periodic Table**  | ✅        | ❌    | ❌    | ❌        |
-| **Advanced RNG System**         | ✅        | ❌    | ❌    | ❌        |
 
 
 # Anti Ghost Ping System
@@ -479,7 +463,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Config Export/Import**         | ✅        | ❌    | ❌    | ❌        |
 | **Detailed Warning Embeds**      | ✅        | ✅    | ✅    | ✅        |
 
-# Fun & Sass Features
+# Fun, Sass & Utils Features  
 
 | Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
 |----------------------------------|-----------|------|------|-----------|
@@ -493,6 +477,37 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Decryption Sequence**          | ✅        | ❌    | ❌    | ❌        |
 | **Theatrical Hacking**           | ✅        | ❌    | ❌    | ❌        |
 | **Colorful Embed Responses**     | ✅        | ❌    | ❌    | ❌        |
+| **Tactical Nuke Command**        | ✅        | ❌    | ❌    | ❌        |
+| **Sniper Command**               | ✅        | ❌    | ❌    | ❌        |
+| **Shoot Command**                | ✅        | ❌    | ❌    | ❌        |
+| **Fight to the Death Command**   | ✅        | ❌    | ❌    | ❌        |
+| **Beat Up Command**              | ✅        | ❌    | ❌    | ❌        |
+| **Tech Roast Command**           | ✅        | ❌    | ❌    | ❌        |
+| **ASCII Art Generator**          | ✅        | ❌    | ❌    | ❌        |
+| **Advanced RNG System**          | ✅        | ❌    | ❌    | ❌        |
+| **URL Shortener System**         | ✅        | ❌    | ❌    | ❌        |
+| **QR Code Generator/Reader**     | ✅        | ❌    | ❌    | ❌        |
+| **Password Generator**           | ✅        | ❌    | ❌    | ❌        |
+| **Morse Code Converter**         | ✅        | ❌    | ❌    | ❌        |
+| **Barcode Generator & Scanner**  | ✅        | ❌    | ❌    | ❌        |
+| **IP Lookup System** (`!iplookup`) | ✅    | ❌    | ❌    | ❌        |
+| **URL Checker** (`!urlchecker`)  | ✅        | ❌    | ❌    | ❌        |
+| **File Size Converter** (`!convert`) | ✅  | ❌    | ❌    | ❌        |
+| **File Type Identifier** (`!identify`) | ✅  | ❌    | ❌    | ❌        |
+| **Download Time Calculator** (`!downloadcalc`) | ✅ | ❌    | ❌    | ❌        |
+| **Interactive Periodic Table**   | ✅        | ❌    | ❌    | ❌        |
+
+
+# Love & Affection Features  
+
+| Feature                          | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|----------------------------------|-----------|------|------|-----------|
+| **Hug Command**                  | ✅        | ❌    | ❌    | ❌        |
+| **Kiss Command**                 | ✅        | ❌    | ❌    | ❌        |
+| **Love Command**                 | ✅        | ❌    | ❌    | ❌        |
+| **Cuddle Command**               | ✅        | ❌    | ❌    | ❌        |
+| **Pat Command**                  | ✅        | ❌    | ❌    | ❌        |
+| **Love Rate Command**            | ✅        | ❌    | ❌    | ❌        |
 
 
 |ZygnalBot: ✅ 100% Free & Open Source|
@@ -506,11 +521,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 22385
+- **Line Count**: 23606
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 956kB - 983B
+- **Size in kB**: 990kB - 1040kB
 
-**Last Updated**: 2025-03-02
+**Last Updated**: 2025-03-04
 
 
 ---
