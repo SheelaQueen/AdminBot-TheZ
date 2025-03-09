@@ -8,6 +8,9 @@
 ---
 NOTE: ZygnalBot is for Self hosting! 
 
+
+**you can now download the latest version under https://zygnalbot.de/**
+
 **[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
 -  Get the bot/script in an instant
