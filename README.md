@@ -9,7 +9,7 @@
 NOTE: ZygnalBot is for Self hosting! 
 
 
-**you can now download the latest version under https://zygnalbot.de/**
+**you can now download the latest version under https://zygnalbot.de/ or just open a ticket in the  discord**
 
 **[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
