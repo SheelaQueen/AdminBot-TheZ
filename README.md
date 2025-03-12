@@ -523,6 +523,38 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Pat Command**                  | ✅        | ❌    | ❌    | ❌        |
 | **Love Rate Command**            | ✅        | ❌    | ❌    | ❌        |
 
+# AntiNuke System 
+
+| Feature                              | ZygnalBot V7.7.7 | MEE6  | Carl-bot | Dyno  |
+|--------------------------------------|------------------|-------|----------|-------|
+| **Anti-Nuke Control Panel**          | ✅  | ❌  | ❌  | ❌  |
+| **Quick Setup for Protection**       | ✅  | ❌  | ❌  | ❌  |
+| **Advanced Settings Configuration**  | ✅  | ❌  | ❌  | ❌  |
+| **Customizable Protection Limits**   | ✅  | ❌  | ❌  | ❌  |
+| **Real-Time Monitoring & Response**  | ✅  | ❌  | ❌  | ❌  |
+| **Ban Protection**                   | ✅  | ❌  | ❌  | ❌  |
+| **Channel Protection**               | ✅  | ❌  | ❌  | ❌  |
+| **Role Protection**                  | ✅  | ❌  | ❌  | ❌  |
+| **Webhook Protection**               | ✅  | ❌  | ❌  | ❌  |
+| **Bot Protection**                   | ✅  | ❌  | ❌  | ❌  |
+| **Interactive UI with Buttons**      | ✅  | ❌  | ❌  | ❌  |
+| **Visual Feedback on Status**        | ✅  | ❌  | ❌  | ❌  |
+| **Confirmation Dialogs**             | ✅  | ❌  | ❌  | ❌  |
+| **Limit Configuration Modals**       | ✅  | ❌  | ❌  | ❌  |
+| **Color-Coded Status Indicators**    | ✅  | ❌  | ❌  | ❌  |
+| **Real-Time Settings Display**       | ✅  | ❌  | ❌  | ❌  |
+| **Persistent Settings Storage**      | ✅  | ❌  | ❌  | ❌  |
+| **Smart Threat Detection**           | ✅  | ❌  | ❌  | ❌  |
+| **Automatic Action Logging**         | ✅  | ❌  | ❌  | ❌  |
+| **Emergency Lockdown Capabilities**  | ✅  | ❌  | ❌  | ❌  |
+
+### Summary:
+- **ZygnalBot V7.7.7** is the **only** bot in this comparison that offers an **Anti-Nuke System** with real-time protection, UI controls, and advanced security measures.  
+- **MEE6, Carl-bot, and Dyno** **do not** have built-in **Anti-Nuke** functionalities like ZygnalBot.
+
+
+
+
 
 Also it got a auto clearer in the newest Version Check out the discord for changelogs!
 
