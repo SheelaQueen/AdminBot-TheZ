@@ -510,6 +510,7 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **File Type Identifier** (`!identify`) | ✅  | ❌    | ❌    | ❌        |
 | **Download Time Calculator** (`!downloadcalc`) | ✅ | ❌    | ❌    | ❌        |
 | **Interactive Periodic Table**   | ✅        | ❌    | ❌    | ❌        |
+| **Sudo** | ✅ | ❌ | ❌ | ❌
 
 
 # Love & Affection Features  
@@ -548,12 +549,19 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 | **Automatic Action Logging**         | ✅  | ❌  | ❌  | ❌  |
 | **Emergency Lockdown Capabilities**  | ✅  | ❌  | ❌  | ❌  |
 
+
+
 ### Summary:
 - **ZygnalBot V7.7.7** is the **only** bot in this comparison that offers an **Anti-Nuke System** with real-time protection, UI controls, and advanced security measures.  
 - **MEE6, Carl-bot, and Dyno** **do not** have built-in **Anti-Nuke** functionalities like ZygnalBot.
 
 
-
+| Giveaway Feature              | ZygnalBot | MEE6 | Dyno | Carl-Bot |
+|------------------------------|-----------|------|------|-----------|
+| **Multiple Winners Support**  | ✅        | ❌    | ✅    | ✅        |
+| **Custom Duration**          | ✅        | ✅    | ✅    | ✅        |
+| **Reroll Winners**           | ✅        | ❌    | ✅    | ✅        |
+> and more
 
 
 Also it got a auto clearer in the newest Version Check out the discord for changelogs!
