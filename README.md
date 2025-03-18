@@ -24,15 +24,7 @@ NOTE: ZygnalBot is for Self hosting!
 ---
 User Ratings Summary
 
-Based on feedback from our users who use this bot, here’s how the project was rated:
-
-Customization: ⭐ 5.0 / 5.0 
-
-Features: ⭐ 5.0 / 5.0 
-
-Reliability: ⭐ 4.83 / 5.0 
-
-Thank you to everyone who participated in providing feedback! Your input helps make this project better every day.
+https://zygnalbot.de/ratings_dashboard.html
 
 
 #### If u want the script feel free to join my ZygnalBot discord
