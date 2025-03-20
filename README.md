@@ -559,6 +559,8 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 
 Also it got a auto clearer in the newest Version Check out the discord for changelogs!
 
+
+
 |ZygnalBot: ✅ 100% Free & Open Source|
 
 |Others: ❌ Freemium (Some Features Require Payment)|
@@ -570,11 +572,11 @@ Also it got a auto clearer in the newest Version Check out the discord for chang
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 24300+
+- **Line Count**: 23000+
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 1080kB+
+- **Size in kB**: 1290kB
 
-**Last Updated**: 2025-03-10
+**Last Updated**: 2025-03-20
 
 
 ---
