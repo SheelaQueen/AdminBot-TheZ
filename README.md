@@ -12,6 +12,8 @@ NOTE: ZygnalBot is for Self hosting!
 
 **you can now download the latest version under https://zygnalbot.de/ or just open a ticket in the  discord**
 
+If you want to Support This Project: https://zygnalbot.com/support.html 
+
 **[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
 -  Open a ticket
 -  Get the bot/script in an instant
