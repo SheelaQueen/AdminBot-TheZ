@@ -564,11 +564,11 @@ Music System | ✅ Yes | ❌ No | ❌ No | ❌ No
 - **Language**: Python
 - **Python Version:** 3.12.7
 - **Discord.py Version:** 2.4.0
-- **Line Count**: 23000+
+- **Line Count**: 35000+
 - **License**: Dual License (Proprietary Core + MIT Extended Features)
-- **Size in kB**: 1290kB
+- **Size in kB**: 2190kB
 
-**Last Updated**: 2025-03-20
+**Last Updated**: 2025-03-25
 
 
 ---
