@@ -11,6 +11,7 @@ NOTE: ZygnalBot is for Self hosting!
 ## The SourceCode of ZygnalBot Is DMCA Claimed so follow the License I provided!
 
 **you can now download the latest version under https://zygnalbot.de/ or just open a ticket in the  discord**
+**Also ZygnalBot Supports Extensions: https://zygnalbot.de/extension_portal.html**
 
 If you want to Support This Project: https://zygnalbot.com/support.html 
 
