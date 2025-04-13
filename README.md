@@ -2,28 +2,57 @@
 
 
 
-**ZygnalBot – The Ecosystem of Innovation.**
-> Breaking barriers, unlocking knowledge, and delivering precision—powered by TheHolyOneZ.
+# ZygnalBot – The Ecosystem of Innovation
+
+**Breaking barriers, unlocking knowledge, and delivering precision—powered by TheHolyOneZ.**
 
 ---
-NOTE: ZygnalBot is for Self hosting! 
 
-## The SourceCode of ZygnalBot Is DMCA Claimed so follow the License I provided!
+### **Note: ZygnalBot is for Self-Hosting!**
 
-> **you can now download the latest version under https://zygnalbot.com/ or just open a ticket in the  discord**
-> 
-> **Also ZygnalBot Supports Extensions: https://zygnalbot.de/extension_portal.html**
+The source code of ZygnalBot is DMCA claimed. Please follow the provided license for usage.
 
-If you want to Support This Project: https://zygnalbot.com/support.html 
+---
 
-**[👉 Click Here to Join TheZ's ZygnalBot!](https://discord.gg/U8sssc6xbv)**
--  Open a ticket
--  Get the bot/script in an instant
-- And when u got the bot star this repo
-  
-> - Video On how to request:
->   
->    - https://www.youtube.com/watch?v=uZbo6J__6N4
+### **Latest Version:**
+
+You can now download the latest version of ZygnalBot from the following:
+
+- **[Download Here](https://zygnalbot.com/)**
+- Alternatively, you can open a ticket in the [Discord Community](https://discord.gg/U8sssc6xbv) for instant access.
+
+---
+
+### **Extensions:**
+
+ZygnalBot supports extensions! Explore available extensions here:
+
+- **[Extension Portal](https://zygnalbot.de/extension_portal.html)**
+
+---
+
+### **Support the Project:**
+
+If you'd like to support the ZygnalBot project, you can contribute via:
+
+- **[Support ZygnalBot](https://zygnalbot.com/support.html)**
+
+---
+
+### **Join The Z's ZygnalBot Community:**
+
+- **[Click Here to Join The Discord](https://discord.gg/U8sssc6xbv)**
+    - Open a ticket for instant access.
+    - Get the bot/script immediately.
+    - When you get the bot, remember to star the repository!
+
+---
+
+### **Video Guide:**
+
+Check out this video for a guide on how to request ZygnalBot:
+
+- [Video: How to Request ZygnalBot](https://www.youtube.com/watch?v=uZbo6J__6N4)
 
 ---
 User Ratings Summary
