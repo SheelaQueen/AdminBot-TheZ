@@ -39,7 +39,7 @@ If you'd like to support the ZygnalBot project, you can contribute via:
 
 ---
 
-### **Join The Z's ZygnalBot Community:**
+### **Join TheZ's ZygnalBot Community:**
 
 - **[Click Here to Join The Discord](https://discord.gg/U8sssc6xbv)**
     - Open a ticket for instant access.
