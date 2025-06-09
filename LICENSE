@@ -1,7 +1,7 @@
 **COPYRIGHT (c) TheHolyOneZ 2025**  
 
 ### **CORE BOT IMPLEMENTATION LICENSE:**  
-The ZygnalBot class and its direct implementation (lines 54-164) are proprietary and protected under copyright. See copyright notice on line 6-9 for exceptions.
+The ZygnalBot class and its direct implementation (lines 106-541) are proprietary and protected under copyright. See copyright notice on line 6-9 for exceptions.
 - You may not modify the core implementation, except for changing Emojis and Status.
 - You may not edit or change any instance of the name zygnalbot, ZygnalBot, Zygnal.  
 - Remove or alter this notice.  
