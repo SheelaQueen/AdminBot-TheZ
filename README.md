@@ -21,8 +21,18 @@ You can now download the latest version of ZygnalBot from the following:
 - **[Download Here](https://zygnalbot.com/)**
 - Alternatively, you can open a ticket in the [Discord Community](https://discord.gg/U8sssc6xbv) for instant access.
 
+
 ---
 
+> 💡 Interested in building your own Discord bots?
+>  
+> Check out **Zoryx Discord Bot Framework**:  
+> https://github.com/TheHolyOneZ/discord-bot-framework  
+>  
+> A powerful, modular framework with built-in tools, scalability in mind, and access to the Zygnal Marketplace.
+
+
+-- 
 ### **Extensions:**
 
 ZygnalBot supports extensions! Explore available extensions here:
